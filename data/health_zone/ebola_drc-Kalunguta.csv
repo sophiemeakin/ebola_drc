@@ -74,3 +74,6 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181008,North-Kivu,Kalunguta,0,1,0,0,0,0,1,
 20181009,North-Kivu,Kalunguta,0,1,0,0,0,0,1,
 20181010,North-Kivu,Kalunguta,0,1,0,0,0,0,1,
+20181011,North-Kivu,Kalunguta,0,2,1,1,1,1,1,
+20181012,North-Kivu,Kalunguta,0,2,,,1,1,1,
+20181013,North-Kivu,Kalunguta,0,2,0,0,1,1,1,

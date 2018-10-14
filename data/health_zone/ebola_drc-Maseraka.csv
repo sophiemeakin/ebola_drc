@@ -74,3 +74,6 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181008,North-Kivu,Maseraka,0,2,0,0,1,1,0,300
 20181009,North-Kivu,Maseraka,0,2,1,1,1,1,0,330
 20181010,North-Kivu,Maseraka,0,3,3,3,1,1,0,390
+20181011,North-Kivu,Maseraka,0,3,1,1,1,1,0,460
+20181012,North-Kivu,Maseraka,0,3,,,1,1,0,460
+20181013,North-Kivu,Maseraka,0,4,1,1,1,1,0,500

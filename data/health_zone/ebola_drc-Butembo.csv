@@ -74,3 +74,6 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181008,North-Kivu,Butembo,2,11,2,2,7,5,4,1100
 20181009,North-Kivu,Butembo,2,11,1,1,7,5,4,1085
 20181010,North-Kivu,Butembo,2,11,1,1,7,5,4,1085
+20181011,North-Kivu,Butembo,2,11,1,1,7,5,4,1085
+20181012,North-Kivu,Butembo,2,11,,,7,5,4,1085
+20181013,North-Kivu,Butembo,2,12,1,1,8,6,4,1085

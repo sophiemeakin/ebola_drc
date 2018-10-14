@@ -74,3 +74,6 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181008,North-Kivu,Beni,8,55,14,14,38,30,13,5385
 20181009,North-Kivu,Beni,8,61,15,15,42,34,15,5616
 20181010,North-Kivu,Beni,8,66,11,11,45,37,15,5838
+20181011,North-Kivu,Beni,8,69,21,21,49,41,15,6163
+20181012,North-Kivu,Beni,8,71,,,49,41,15,6453
+20181013,North-Kivu,Beni,8,73,15,15,51,43,16,6832

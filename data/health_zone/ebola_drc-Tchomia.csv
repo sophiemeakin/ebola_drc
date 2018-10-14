@@ -74,3 +74,6 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181008,Ituri,Tchomia,0,2,2,2,2,2,0,355
 20181009,Ituri,Tchomia,0,2,3,3,2,2,0,355
 20181010,Ituri,Tchomia,0,2,1,1,2,2,0,355
+20181011,Ituri,Tchomia,0,2,1,1,2,2,0,355
+20181012,Ituri,Tchomia,0,2,,,2,2,0,355
+20181013,Ituri,Tchomia,0,2,0,0,2,2,0,355
