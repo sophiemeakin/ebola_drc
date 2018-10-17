@@ -3,7 +3,7 @@
 `health_zone/` contains the above data split by health zone.
 
 ## Notes
-1. Data are reported for the 15 health zones that have had suspected, probable or confirmed cases over the course of the outbreak, or where individuals have been vaccinated.
+1. Data are reported for the 16 health zones that have had suspected, probable or confirmed cases over the course of the outbreak, or where individuals have been vaccinated.
 2. Dates are formatted as YYYYMMDD.
 3. Columns are: cumulative probable cases; cumulative confirmed cases; new suspected cases; total current suspected cases; cumulative deaths; cumulative deaths that are confirmed Ebola cases; cumulative cured cases (from 20180905); and cumulative vaccinated (from 20180815).
 4. Blank entries indicate no data was reported.
@@ -16,3 +16,4 @@
 4. 20180904: Confirmed case in Kalunguta incorrectly attributed to Beni. This is corrected by DRC Ministry of Health in subsequent reports.
 5. 20180907 onward: total confirmed deaths + total cured exceed the total confirmed cases in Mabalako.
 6. 20180914, 20180915, 20180917: no vaccination numbers reported.
+7. 20181012: number of suspected cases under investigation not reported.
