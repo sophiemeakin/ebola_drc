@@ -104,3 +104,4 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181107,North-Kivu,Musienene,1,0,0,0,1,0,0,160
 20181108,North-Kivu,Musienene,1,0,1,1,1,0,0,160
 20181109,North-Kivu,Musienene,1,1,1,1,2,1,0,160
+20181110,North-Kivu,Musienene,1,1,3,3,2,1,,160
