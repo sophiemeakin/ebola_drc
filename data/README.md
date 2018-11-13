@@ -17,3 +17,4 @@
 5. 20180907 onward: total confirmed deaths + total cured exceed the total confirmed cases in Mabalako.
 6. 20180914, 20180915, 20180917: no vaccination numbers reported.
 7. 20181012: number of suspected cases under investigation not reported.
+8. 20181111: probable and confirmed cases 'cleaned up'; as a result, there may be jumps in the number of confirmed/probable cases, and in the number of deaths in each health zone.
