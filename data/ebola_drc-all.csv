@@ -20,6 +20,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180728,North-Kivu,Mutwanga,,,,,,,,
 20180728,North-Kivu,Oicha,,,,,,,,
 20180728,North-Kivu,Vuhovi,,,,,,,,
+20180728,Tshopo,Kisangani,,,,,,,,
 20180728,all,all,,,,,,,,
 20180729,Ituri,Bunia,,,,,,,,
 20180729,Ituri,Komanda,,,,,,,,
@@ -42,6 +43,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180729,North-Kivu,Mutwanga,,,,,,,,
 20180729,North-Kivu,Oicha,,,,,,,,
 20180729,North-Kivu,Vuhovi,,,,,,,,
+20180729,Tshopo,Kisangani,,,,,,,,
 20180729,all,all,,,,,,,,
 20180730,Ituri,Bunia,,,,,,,,
 20180730,Ituri,Komanda,,,,,,,,
@@ -64,6 +66,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180730,North-Kivu,Mutwanga,,,,,,,,
 20180730,North-Kivu,Oicha,,,,,,,,
 20180730,North-Kivu,Vuhovi,,,,,,,,
+20180730,Tshopo,Kisangani,,,,,,,,
 20180730,all,all,,,,,,,,
 20180731,Ituri,Bunia,,,,,,,,
 20180731,Ituri,Komanda,,,,,,,,
@@ -86,6 +89,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180731,North-Kivu,Mutwanga,,,,,,,,
 20180731,North-Kivu,Oicha,,,,,,,,
 20180731,North-Kivu,Vuhovi,,,,,,,,
+20180731,Tshopo,Kisangani,,,,,,,,
 20180731,all,all,,,,,,,,
 20180801,Ituri,Bunia,,,,,,,,
 20180801,Ituri,Komanda,,,,,,,,
@@ -108,6 +112,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180801,North-Kivu,Mutwanga,,,,,,,,
 20180801,North-Kivu,Oicha,,,,,,,,
 20180801,North-Kivu,Vuhovi,,,,,,,,
+20180801,Tshopo,Kisangani,,,,,,,,
 20180801,all,all,,,,,,,,
 20180802,Ituri,Bunia,,,,,,,,
 20180802,Ituri,Komanda,,,,,,,,
@@ -130,6 +135,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180802,North-Kivu,Mutwanga,,,,,,,,
 20180802,North-Kivu,Oicha,,,,,,,,
 20180802,North-Kivu,Vuhovi,,,,,,,,
+20180802,Tshopo,Kisangani,,,,,,,,
 20180802,all,all,,,,,,,,
 20180803,Ituri,Bunia,,,,,,,,
 20180803,Ituri,Komanda,,,,,,,,
@@ -152,6 +158,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180803,North-Kivu,Mutwanga,,,,,,,,
 20180803,North-Kivu,Oicha,1.0,0.0,0.0,0.0,1.0,0.0,,
 20180803,North-Kivu,Vuhovi,,,,,,,,
+20180803,Tshopo,Kisangani,,,,,,,,
 20180803,all,all,30.0,13.0,0.0,33.0,33.0,3.0,,
 20180804,Ituri,Bunia,,,,,,,,
 20180804,Ituri,Komanda,,,,,,,,
@@ -174,6 +181,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180804,North-Kivu,Mutwanga,,,,,,,,
 20180804,North-Kivu,Oicha,,,,,,,,
 20180804,North-Kivu,Vuhovi,,,,,,,,
+20180804,Tshopo,Kisangani,,,,,,,,
 20180804,all,all,,,,,,,,
 20180805,Ituri,Bunia,,,,,,,,
 20180805,Ituri,Komanda,,,,,,,,
@@ -196,6 +204,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180805,North-Kivu,Mutwanga,,,,,,,,
 20180805,North-Kivu,Oicha,1.0,0.0,0.0,0.0,1.0,0.0,,
 20180805,North-Kivu,Vuhovi,,,,,,,,
+20180805,Tshopo,Kisangani,,,,,,,,
 20180805,all,all,27.0,16.0,10.0,31.0,34.0,7.0,,
 20180806,Ituri,Bunia,,,,,,,,
 20180806,Ituri,Komanda,,,,,,,,
@@ -218,6 +227,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180806,North-Kivu,Mutwanga,,,,,,,,
 20180806,North-Kivu,Oicha,1.0,0.0,0.0,0.0,1.0,0.0,,
 20180806,North-Kivu,Vuhovi,,,,,,,,
+20180806,Tshopo,Kisangani,,,,,,,,
 20180806,all,all,27.0,16.0,17.0,46.0,36.0,9.0,,
 20180807,Ituri,Bunia,,,,,,,,
 20180807,Ituri,Komanda,,,,,,,,
@@ -240,6 +250,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180807,North-Kivu,Mutwanga,,,,,,,,
 20180807,North-Kivu,Oicha,1.0,0.0,0.0,0.0,1.0,0.0,,
 20180807,North-Kivu,Vuhovi,,,,,,,,
+20180807,Tshopo,Kisangani,,,,,,,,
 20180807,all,all,27.0,17.0,9.0,47.0,36.0,9.0,,
 20180808,Ituri,Bunia,,,,,,,,
 20180808,Ituri,Komanda,,,,,,,,
@@ -262,6 +273,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180808,North-Kivu,Mutwanga,,,,,,,,
 20180808,North-Kivu,Oicha,1.0,0.0,0.0,0.0,1.0,0.0,,
 20180808,North-Kivu,Vuhovi,,,,,,,,
+20180808,Tshopo,Kisangani,,,,,,,,
 20180808,all,all,27.0,17.0,10.0,52.0,37.0,10.0,,
 20180809,Ituri,Bunia,,,,,,,,
 20180809,Ituri,Komanda,,,,,,,,
@@ -284,6 +296,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180809,North-Kivu,Mutwanga,,,,,,,,
 20180809,North-Kivu,Oicha,1.0,0.0,0.0,0.0,1.0,0.0,,
 20180809,North-Kivu,Vuhovi,,,,,,,,
+20180809,Tshopo,Kisangani,,,,,,,,
 20180809,all,all,27.0,21.0,8.0,51.0,38.0,11.0,,
 20180810,Ituri,Bunia,,,,,,,,
 20180810,Ituri,Komanda,,,,,,,,
@@ -306,6 +319,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180810,North-Kivu,Mutwanga,,,,,,,,
 20180810,North-Kivu,Oicha,1.0,0.0,0.0,0.0,1.0,0.0,,
 20180810,North-Kivu,Vuhovi,,,,,,,,
+20180810,Tshopo,Kisangani,,,,,,,,
 20180810,all,all,27.0,22.0,8.0,53.0,38.0,11.0,,
 20180811,Ituri,Bunia,,,,,,,,
 20180811,Ituri,Komanda,,,,,,,,
@@ -328,6 +342,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180811,North-Kivu,Mutwanga,,,,,,,,
 20180811,North-Kivu,Oicha,1.0,0.0,0.0,0.0,1.0,0.0,,
 20180811,North-Kivu,Vuhovi,,,,,,,,
+20180811,Tshopo,Kisangani,,,,,,,,
 20180811,all,all,27.0,25.0,11.0,48.0,39.0,12.0,,
 20180812,Ituri,Bunia,,,,,,,,
 20180812,Ituri,Komanda,,,,,,,,
@@ -350,6 +365,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180812,North-Kivu,Mutwanga,,,,,,,,
 20180812,North-Kivu,Oicha,1.0,0.0,0.0,0.0,1.0,0.0,,
 20180812,North-Kivu,Vuhovi,,,,,,,,
+20180812,Tshopo,Kisangani,,,,,,,,
 20180812,all,all,27.0,30.0,12.0,58.0,41.0,14.0,,
 20180813,Ituri,Bunia,,,,,,,,
 20180813,Ituri,Komanda,,,,,,,,
@@ -372,6 +388,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180813,North-Kivu,Mutwanga,,,,,,,,
 20180813,North-Kivu,Oicha,1.0,0.0,0.0,0.0,1.0,0.0,,
 20180813,North-Kivu,Vuhovi,,,,,,,,
+20180813,Tshopo,Kisangani,,,,,,,,
 20180813,all,all,27.0,39.0,8.0,36.0,42.0,15.0,,
 20180814,Ituri,Bunia,,,,,,,,
 20180814,Ituri,Komanda,,,,,,,,
@@ -394,6 +411,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180814,North-Kivu,Mutwanga,,,,,,,,
 20180814,North-Kivu,Oicha,1.0,0.0,0.0,0.0,1.0,0.0,,
 20180814,North-Kivu,Vuhovi,,,,,,,,
+20180814,Tshopo,Kisangani,,,,,,,,
 20180814,all,all,27.0,46.0,14.0,40.0,43.0,16.0,,
 20180815,Ituri,Bunia,,,,,,,,
 20180815,Ituri,Komanda,,,,,,,,
@@ -416,6 +434,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180815,North-Kivu,Mutwanga,,,,,,,,
 20180815,North-Kivu,Oicha,1.0,0.0,0.0,0.0,1.0,0.0,,
 20180815,North-Kivu,Vuhovi,,,,,,,,
+20180815,Tshopo,Kisangani,,,,,,,,
 20180815,all,all,27.0,51.0,9.0,26.0,44.0,17.0,,316.0
 20180816,Ituri,Bunia,,,,,,,,
 20180816,Ituri,Komanda,,,,,,,,
@@ -438,6 +457,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180816,North-Kivu,Mutwanga,,,,,,,,
 20180816,North-Kivu,Oicha,1.0,0.0,0.0,0.0,1.0,0.0,,
 20180816,North-Kivu,Vuhovi,,,,,,,,
+20180816,Tshopo,Kisangani,,,,,,,,
 20180816,all,all,27.0,60.0,8.0,21.0,47.0,20.0,,
 20180817,Ituri,Bunia,,,,,,,,
 20180817,Ituri,Komanda,,,,,,,,
@@ -460,6 +480,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180817,North-Kivu,Mutwanga,,,,,,,,
 20180817,North-Kivu,Oicha,1.0,0.0,0.0,0.0,1.0,0.0,,
 20180817,North-Kivu,Vuhovi,,,,,,,,
+20180817,Tshopo,Kisangani,,,,,,,,
 20180817,all,all,27.0,63.0,9.0,25.0,49.0,22.0,,
 20180818,Ituri,Bunia,,,,,,,,
 20180818,Ituri,Komanda,,,,,,,,
@@ -482,6 +503,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180818,North-Kivu,Mutwanga,,,,,,,,
 20180818,North-Kivu,Oicha,1.0,0.0,0.0,0.0,1.0,0.0,,
 20180818,North-Kivu,Vuhovi,,,,,,,,
+20180818,Tshopo,Kisangani,,,,,,,,
 20180818,all,all,27.0,64.0,8.0,12.0,50.0,23.0,,873.0
 20180819,Ituri,Bunia,,,,,,,,
 20180819,Ituri,Komanda,,,,,,,,
@@ -504,6 +526,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180819,North-Kivu,Mutwanga,,,,,,,,
 20180819,North-Kivu,Oicha,1.0,0.0,0.0,0.0,1.0,0.0,,
 20180819,North-Kivu,Vuhovi,,,,,,,,
+20180819,Tshopo,Kisangani,,,,,,,,
 20180819,all,all,27.0,69.0,5.0,5.0,55.0,28.0,,1273.0
 20180820,Ituri,Bunia,,,,,,,,
 20180820,Ituri,Komanda,,,,,,,,
@@ -526,6 +549,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180820,North-Kivu,Mutwanga,,,,,,,,
 20180820,North-Kivu,Oicha,1.0,1.0,2.0,2.0,1.0,0.0,,
 20180820,North-Kivu,Vuhovi,,,,,,,,
+20180820,Tshopo,Kisangani,,,,,,,,
 20180820,all,all,27.0,75.0,9.0,9.0,59.0,32.0,,1693.0
 20180821,Ituri,Bunia,,,,,,,,
 20180821,Ituri,Komanda,,,,,,,,
@@ -548,6 +572,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180821,North-Kivu,Mutwanga,,,,,,,,
 20180821,North-Kivu,Oicha,1.0,1.0,1.0,1.0,1.0,0.0,,
 20180821,North-Kivu,Vuhovi,,,,,,,,
+20180821,Tshopo,Kisangani,,,,,,,,
 20180821,all,all,27.0,76.0,7.0,7.0,61.0,34.0,,2179.0
 20180822,Ituri,Bunia,,,,,,,,
 20180822,Ituri,Komanda,,,,,,,,
@@ -570,6 +595,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180822,North-Kivu,Mutwanga,,,,,,,,
 20180822,North-Kivu,Oicha,1.0,1.0,0.0,1.0,1.0,0.0,,44.0
 20180822,North-Kivu,Vuhovi,,,,,,,,
+20180822,Tshopo,Kisangani,,,,,,,,
 20180822,all,all,27.0,76.0,6.0,13.0,63.0,36.0,,2613.0
 20180823,Ituri,Bunia,,,,,,,,
 20180823,Ituri,Komanda,,,,,,,,
@@ -592,6 +618,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180823,North-Kivu,Mutwanga,,,,,,,,
 20180823,North-Kivu,Oicha,1.0,1.0,0.0,0.0,1.0,0.0,,88.0
 20180823,North-Kivu,Vuhovi,,,,,,,,
+20180823,Tshopo,Kisangani,,,,,,,,
 20180823,all,all,28.0,77.0,10.0,10.0,67.0,39.0,,2957.0
 20180824,Ituri,Bunia,,,,,,,,
 20180824,Ituri,Komanda,,,,,,,,
@@ -614,6 +641,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180824,North-Kivu,Mutwanga,,,,,,,,
 20180824,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,,121.0
 20180824,North-Kivu,Vuhovi,,,,,,,,
+20180824,Tshopo,Kisangani,,,,,,,,
 20180824,all,all,28.0,79.0,5.0,6.0,70.0,42.0,,3481.0
 20180825,Ituri,Bunia,,,,,,,,
 20180825,Ituri,Komanda,,,,,,,,
@@ -636,6 +664,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180825,North-Kivu,Mutwanga,,,,,,,,
 20180825,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,,121.0
 20180825,North-Kivu,Vuhovi,,,,,,,,
+20180825,Tshopo,Kisangani,,,,,,,,
 20180825,all,all,28.0,83.0,5.0,6.0,72.0,44.0,,3591.0
 20180826,Ituri,Bunia,,,,,,,,
 20180826,Ituri,Komanda,,,,,,,,
@@ -658,6 +687,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180826,North-Kivu,Mutwanga,,,,,,,,
 20180826,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,,121.0
 20180826,North-Kivu,Vuhovi,,,,,,,,
+20180826,Tshopo,Kisangani,,,,,,,,
 20180826,all,all,28.0,83.0,6.0,10.0,75.0,47.0,,4130.0
 20180827,Ituri,Bunia,,,,,,,,
 20180827,Ituri,Komanda,,,,,,,,
@@ -680,6 +710,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180827,North-Kivu,Mutwanga,,,,,,,,
 20180827,North-Kivu,Oicha,1.0,2.0,1.0,1.0,1.0,0.0,,121.0
 20180827,North-Kivu,Vuhovi,,,,,,,,
+20180827,Tshopo,Kisangani,,,,,,,,
 20180827,all,all,28.0,84.0,11.0,18.0,75.0,47.0,,4511.0
 20180828,Ituri,Bunia,,,,,,,,
 20180828,Ituri,Komanda,,,,,,,,
@@ -702,6 +733,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180828,North-Kivu,Mutwanga,,,,,,,,
 20180828,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,,121.0
 20180828,North-Kivu,Vuhovi,,,,,,,,
+20180828,Tshopo,Kisangani,,,,,,,,
 20180828,all,all,30.0,85.0,10.0,10.0,77.0,47.0,,4645.0
 20180829,Ituri,Bunia,,,,,,,,
 20180829,Ituri,Komanda,,,,,,,,
@@ -724,6 +756,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180829,North-Kivu,Mutwanga,,,,,,,,
 20180829,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,,121.0
 20180829,North-Kivu,Vuhovi,,,,,,,,
+20180829,Tshopo,Kisangani,,,,,,,,
 20180829,all,all,30.0,86.0,8.0,8.0,77.0,47.0,,4851.0
 20180830,Ituri,Bunia,,,,,,,,
 20180830,Ituri,Komanda,,,,,,,,
@@ -746,6 +779,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180830,North-Kivu,Mutwanga,,,,,,,,
 20180830,North-Kivu,Oicha,1.0,2.0,1.0,1.0,1.0,0.0,,121.0
 20180830,North-Kivu,Vuhovi,,,,,,,,
+20180830,Tshopo,Kisangani,,,,,,,,
 20180830,all,all,30.0,88.0,5.0,13.0,77.0,47.0,,5150.0
 20180831,Ituri,Bunia,,,,,,,,
 20180831,Ituri,Komanda,,,,,,,,
@@ -768,6 +802,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180831,North-Kivu,Mutwanga,,,,,,,,
 20180831,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,,121.0
 20180831,North-Kivu,Vuhovi,,,,,,,,
+20180831,Tshopo,Kisangani,,,,,,,,
 20180831,all,all,30.0,90.0,7.0,11.0,78.0,48.0,,5462.0
 20180901,Ituri,Bunia,,,,,,,,
 20180901,Ituri,Komanda,,,,,,,,
@@ -790,6 +825,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180901,North-Kivu,Mutwanga,,,,,,,,
 20180901,North-Kivu,Oicha,1.0,2.0,1.0,1.0,1.0,0.0,,121.0
 20180901,North-Kivu,Vuhovi,,,,,,,,
+20180901,Tshopo,Kisangani,,,,,,,,
 20180901,all,all,30.0,90.0,8.0,12.0,80.0,50.0,,5773.0
 20180902,Ituri,Bunia,,,,,,,,
 20180902,Ituri,Komanda,,,,,,,,
@@ -812,6 +848,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180902,North-Kivu,Mutwanga,,,,,,,,
 20180902,North-Kivu,Oicha,1.0,2.0,0.0,1.0,1.0,0.0,,121.0
 20180902,North-Kivu,Vuhovi,,,,,,,,
+20180902,Tshopo,Kisangani,,,,,,,,
 20180902,all,all,30.0,91.0,6.0,14.0,81.0,51.0,,5946.0
 20180903,Ituri,Bunia,,,,,,,,
 20180903,Ituri,Komanda,,,,,,,,
@@ -834,6 +871,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180903,North-Kivu,Mutwanga,,,,,,,,
 20180903,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,,121.0
 20180903,North-Kivu,Vuhovi,,,,,,,,
+20180903,Tshopo,Kisangani,,,,,,,,
 20180903,all,all,31.0,93.0,9.0,16.0,85.0,54.0,,6134.0
 20180904,Ituri,Bunia,,,,,,,,
 20180904,Ituri,Komanda,,,,,,,,
@@ -856,6 +894,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180904,North-Kivu,Mutwanga,,,,,,,,
 20180904,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,,121.0
 20180904,North-Kivu,Vuhovi,,,,,,,,
+20180904,Tshopo,Kisangani,,,,,,,,
 20180904,all,all,31.0,96.0,4.0,4.0,87.0,56.0,,6343.0
 20180905,Ituri,Bunia,,,,,,,,
 20180905,Ituri,Komanda,,,,,,,,
@@ -878,6 +917,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180905,North-Kivu,Mutwanga,,,,,,,,
 20180905,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,,121.0
 20180905,North-Kivu,Vuhovi,,,,,,,,
+20180905,Tshopo,Kisangani,,,,,,,,
 20180905,all,all,31.0,98.0,7.0,7.0,89.0,58.0,23.0,6486.0
 20180906,Ituri,Bunia,,,,,,,,
 20180906,Ituri,Komanda,,,,,,,,
@@ -900,6 +940,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180906,North-Kivu,Mutwanga,,,,,,,,
 20180906,North-Kivu,Oicha,1.0,2.0,1.0,1.0,1.0,0.0,2.0,121.0
 20180906,North-Kivu,Vuhovi,,,,,,,,
+20180906,Tshopo,Kisangani,,,,,,,,
 20180906,all,all,31.0,98.0,9.0,9.0,89.0,58.0,33.0,6769.0
 20180907,Ituri,Bunia,,,,,,,,
 20180907,Ituri,Komanda,,,,,,,,
@@ -922,6 +963,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180907,North-Kivu,Mutwanga,,,,,,,,
 20180907,North-Kivu,Oicha,1.0,2.0,1.0,1.0,1.0,0.0,2.0,121.0
 20180907,North-Kivu,Vuhovi,,,,,,,,
+20180907,Tshopo,Kisangani,,,,,,,,
 20180907,all,all,31.0,100.0,14.0,14.0,90.0,59.0,35.0,7069.0
 20180908,Ituri,Bunia,,,,,,,,
 20180908,Ituri,Komanda,,,,,,,,
@@ -944,6 +986,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180908,North-Kivu,Mutwanga,,,,,,,,
 20180908,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20180908,North-Kivu,Vuhovi,,,,,,,,
+20180908,Tshopo,Kisangani,,,,,,,,
 20180908,all,all,31.0,100.0,12.0,20.0,90.0,59.0,35.0,7409.0
 20180909,Ituri,Bunia,,,,,,,,
 20180909,Ituri,Komanda,,,,,,,,
@@ -966,6 +1009,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180909,North-Kivu,Mutwanga,,,,,,,,
 20180909,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20180909,North-Kivu,Vuhovi,,,,,,,,
+20180909,Tshopo,Kisangani,,,,,,,,
 20180909,all,all,31.0,101.0,3.0,9.0,91.0,60.0,36.0,7780.0
 20180910,Ituri,Bunia,,,,,,,,
 20180910,Ituri,Komanda,,,,,,,,
@@ -988,6 +1032,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180910,North-Kivu,Mutwanga,,,,,,,,
 20180910,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20180910,North-Kivu,Vuhovi,,,,,,,,
+20180910,Tshopo,Kisangani,,,,,,,,
 20180910,all,all,31.0,101.0,7.0,9.0,92.0,61.0,37.0,8190.0
 20180911,Ituri,Bunia,,,,,,,,
 20180911,Ituri,Komanda,,,,,,,,
@@ -1010,6 +1055,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180911,North-Kivu,Mutwanga,,,,,,,,
 20180911,North-Kivu,Oicha,1.0,2.0,2.0,2.0,1.0,0.0,2.0,121.0
 20180911,North-Kivu,Vuhovi,,,,,,,,
+20180911,Tshopo,Kisangani,,,,,,,,
 20180911,all,all,31.0,102.0,16.0,19.0,92.0,61.0,37.0,8444.0
 20180912,Ituri,Bunia,,,,,,,,
 20180912,Ituri,Komanda,,,,,,,,
@@ -1032,6 +1078,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180912,North-Kivu,Mutwanga,,,,,,,,
 20180912,North-Kivu,Oicha,1.0,2.0,1.0,1.0,1.0,0.0,2.0,121.0
 20180912,North-Kivu,Vuhovi,,,,,,,,
+20180912,Tshopo,Kisangani,,,,,,,,
 20180912,all,all,31.0,106.0,17.0,17.0,92.0,61.0,37.0,8738.0
 20180913,Ituri,Bunia,,,,,,,,
 20180913,Ituri,Komanda,,,,,,,,
@@ -1054,6 +1101,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180913,North-Kivu,Mutwanga,,,,,,,,
 20180913,North-Kivu,Oicha,1.0,2.0,1.0,1.0,1.0,0.0,2.0,121.0
 20180913,North-Kivu,Vuhovi,,,,,,,,
+20180913,Tshopo,Kisangani,,,,,,,,
 20180913,all,all,31.0,109.0,13.0,13.0,94.0,63.0,37.0,8963.0
 20180914,Ituri,Bunia,,,,,,,,
 20180914,Ituri,Komanda,,,,,,,,
@@ -1076,6 +1124,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180914,North-Kivu,Mutwanga,,,,,,,,
 20180914,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,
 20180914,North-Kivu,Vuhovi,,,,,,,,
+20180914,Tshopo,Kisangani,,,,,,,,
 20180914,all,all,31.0,109.0,5.0,5.0,95.0,64.0,37.0,
 20180915,Ituri,Bunia,,,,,,,,
 20180915,Ituri,Komanda,,,,,,,,
@@ -1098,6 +1147,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180915,North-Kivu,Mutwanga,,,,,,,,
 20180915,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,
 20180915,North-Kivu,Vuhovi,,,,,,,,
+20180915,Tshopo,Kisangani,,,,,,,,
 20180915,all,all,31.0,111.0,4.0,4.0,97.0,66.0,38.0,
 20180916,Ituri,Bunia,,,,,,,,
 20180916,Ituri,Komanda,0.0,0.0,1.0,1.0,0.0,0.0,0.0,
@@ -1120,6 +1170,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180916,North-Kivu,Mutwanga,,,,,,,,
 20180916,North-Kivu,Oicha,1.0,2.0,2.0,2.0,1.0,0.0,2.0,121.0
 20180916,North-Kivu,Vuhovi,,,,,,,,
+20180916,Tshopo,Kisangani,,,,,,,,
 20180916,all,all,31.0,111.0,7.0,7.0,97.0,66.0,38.0,9721.0
 20180917,Ituri,Bunia,,,,,,,,
 20180917,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
@@ -1142,6 +1193,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180917,North-Kivu,Mutwanga,,,,,,,,
 20180917,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,
 20180917,North-Kivu,Vuhovi,,,,,,,,
+20180917,Tshopo,Kisangani,,,,,,,,
 20180917,all,all,31.0,111.0,5.0,6.0,97.0,66.0,38.0,
 20180918,Ituri,Bunia,,,,,,,,
 20180918,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,51.0
@@ -1164,6 +1216,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180918,North-Kivu,Mutwanga,,,,,,,,
 20180918,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20180918,North-Kivu,Vuhovi,,,,,,,,
+20180918,Tshopo,Kisangani,,,,,,,,
 20180918,all,all,31.0,111.0,9.0,9.0,97.0,66.0,38.0,10352.0
 20180919,Ituri,Bunia,,,,,,,,
 20180919,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,94.0
@@ -1186,6 +1239,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180919,North-Kivu,Mutwanga,,,,,,,,
 20180919,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20180919,North-Kivu,Vuhovi,,,,,,,,
+20180919,Tshopo,Kisangani,,,,,,,,
 20180919,all,all,31.0,112.0,7.0,7.0,97.0,66.0,39.0,10663.0
 20180920,Ituri,Bunia,,,,,,,,
 20180920,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
@@ -1208,6 +1262,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180920,North-Kivu,Mutwanga,,,,,,,,
 20180920,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20180920,North-Kivu,Vuhovi,,,,,,,,
+20180920,Tshopo,Kisangani,,,,,,,,
 20180920,all,all,31.0,116.0,11.0,11.0,99.0,68.0,39.0,10944.0
 20180921,Ituri,Bunia,,,,,,,,
 20180921,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
@@ -1230,6 +1285,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180921,North-Kivu,Mutwanga,,,,,,,,
 20180921,North-Kivu,Oicha,1.0,2.0,1.0,1.0,1.0,0.0,2.0,121.0
 20180921,North-Kivu,Vuhovi,,,,,,,,
+20180921,Tshopo,Kisangani,,,,,,,,
 20180921,all,all,31.0,116.0,15.0,15.0,99.0,68.0,40.0,11109.0
 20180922,Ituri,Bunia,,,,,,,,
 20180922,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
@@ -1252,6 +1308,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180922,North-Kivu,Mutwanga,,,,,,,,
 20180922,North-Kivu,Oicha,1.0,2.0,1.0,1.0,1.0,0.0,2.0,121.0
 20180922,North-Kivu,Vuhovi,,,,,,,,
+20180922,Tshopo,Kisangani,,,,,,,,
 20180922,all,all,31.0,118.0,12.0,12.0,100.0,69.0,40.0,11417.0
 20180923,Ituri,Bunia,,,,,,,,
 20180923,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
@@ -1274,6 +1331,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180923,North-Kivu,Mutwanga,,,,,,,,
 20180923,North-Kivu,Oicha,1.0,2.0,1.0,1.0,1.0,0.0,2.0,121.0
 20180923,North-Kivu,Vuhovi,,,,,,,,
+20180923,Tshopo,Kisangani,,,,,,,,
 20180923,all,all,31.0,119.0,9.0,9.0,100.0,69.0,41.0,11563.0
 20180924,Ituri,Bunia,,,,,,,,
 20180924,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
@@ -1296,6 +1354,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180924,North-Kivu,Mutwanga,,,,,,,,
 20180924,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20180924,North-Kivu,Vuhovi,,,,,,,,
+20180924,Tshopo,Kisangani,,,,,,,,
 20180924,all,all,31.0,120.0,11.0,11.0,101.0,70.0,41.0,11773.0
 20180925,Ituri,Bunia,,,,,,,,
 20180925,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
@@ -1318,6 +1377,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180925,North-Kivu,Mutwanga,,,,,,,,
 20180925,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20180925,North-Kivu,Vuhovi,,,,,,,,
+20180925,Tshopo,Kisangani,,,,,,,,
 20180925,all,all,31.0,120.0,17.0,17.0,101.0,70.0,41.0,11921.0
 20180926,Ituri,Bunia,,,,,,,,50.0
 20180926,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
@@ -1340,6 +1400,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180926,North-Kivu,Mutwanga,,,,,,,,
 20180926,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20180926,North-Kivu,Vuhovi,,,,,,,,
+20180926,Tshopo,Kisangani,,,,,,,,
 20180926,all,all,31.0,123.0,11.0,11.0,101.0,70.0,43.0,12029.0
 20180927,Ituri,Bunia,,,,,,,,110.0
 20180927,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
@@ -1362,6 +1423,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180927,North-Kivu,Mutwanga,,,,,,,,
 20180927,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20180927,North-Kivu,Vuhovi,,,,,,,,
+20180927,Tshopo,Kisangani,,,,,,,,
 20180927,all,all,31.0,124.0,15.0,15.0,102.0,71.0,45.0,12250.0
 20180928,Ituri,Bunia,,,,,,,,170.0
 20180928,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
@@ -1384,6 +1446,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180928,North-Kivu,Mutwanga,,,,,,,,
 20180928,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20180928,North-Kivu,Vuhovi,,,,,,,,
+20180928,Tshopo,Kisangani,,,,,,,,
 20180928,all,all,31.0,126.0,23.0,23.0,102.0,71.0,45.0,12614.0
 20180929,Ituri,Bunia,,,,,,,,220.0
 20180929,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
@@ -1406,6 +1469,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180929,North-Kivu,Mutwanga,,,,,,,,
 20180929,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20180929,North-Kivu,Vuhovi,,,,,,,,
+20180929,Tshopo,Kisangani,,,,,,,,
 20180929,all,all,32.0,127.0,13.0,13.0,104.0,72.0,45.0,12940.0
 20180930,Ituri,Bunia,,,,,,,,257.0
 20180930,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,164.0
@@ -1428,6 +1492,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180930,North-Kivu,Mutwanga,,,,,,,,
 20180930,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20180930,North-Kivu,Vuhovi,,,,,,,,
+20180930,Tshopo,Kisangani,,,,,,,,
 20180930,all,all,32.0,129.0,9.0,9.0,105.0,73.0,45.0,13208.0
 20181001,Ituri,Bunia,,,,,,,,307.0
 20181001,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,164.0
@@ -1450,6 +1515,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181001,North-Kivu,Mutwanga,,,,,,,,
 20181001,North-Kivu,Oicha,1.0,2.0,1.0,1.0,1.0,0.0,2.0,121.0
 20181001,North-Kivu,Vuhovi,,,,,,,,
+20181001,Tshopo,Kisangani,,,,,,,,
 20181001,all,all,32.0,129.0,18.0,18.0,106.0,74.0,45.0,13542.0
 20181002,Ituri,Bunia,,,,,,,,307.0
 20181002,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,192.0
@@ -1472,6 +1538,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181002,North-Kivu,Mutwanga,,,,,,,,
 20181002,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181002,North-Kivu,Vuhovi,,,,,,,,
+20181002,Tshopo,Kisangani,,,,,,,,
 20181002,all,all,32.0,130.0,17.0,17.0,106.0,74.0,46.0,13750.0
 20181003,Ituri,Bunia,,,,,,,,307.0
 20181003,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,224.0
@@ -1494,6 +1561,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181003,North-Kivu,Mutwanga,,,,,,,,
 20181003,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181003,North-Kivu,Vuhovi,,,,,,,,
+20181003,Tshopo,Kisangani,,,,,,,,
 20181003,all,all,32.0,133.0,24.0,24.0,106.0,74.0,47.0,14017.0
 20181004,Ituri,Bunia,,,,,,,,307.0
 20181004,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -1516,6 +1584,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181004,North-Kivu,Mutwanga,,,,,,,,
 20181004,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181004,North-Kivu,Vuhovi,,,,,,,,
+20181004,Tshopo,Kisangani,,,,,,,,
 20181004,all,all,32.0,135.0,13.0,13.0,106.0,74.0,48.0,14278.0
 20181005,Ituri,Bunia,,,,,,,,377.0
 20181005,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -1538,6 +1607,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181005,North-Kivu,Mutwanga,,,,,,,,
 20181005,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181005,North-Kivu,Vuhovi,,,,,,,,
+20181005,Tshopo,Kisangani,,,,,,,,
 20181005,all,all,32.0,140.0,10.0,10.0,108.0,76.0,49.0,14619.0
 20181006,Ituri,Bunia,,,,,,,,427.0
 20181006,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -1560,6 +1630,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181006,North-Kivu,Mutwanga,,,,,,,,
 20181006,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181006,North-Kivu,Vuhovi,,,,,,,,
+20181006,Tshopo,Kisangani,,,,,,,,
 20181006,all,all,35.0,142.0,11.0,11.0,113.0,78.0,50.0,14869.0
 20181007,Ituri,Bunia,,,,,,,,434.0
 20181007,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -1582,6 +1653,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181007,North-Kivu,Mutwanga,,,,,,,,
 20181007,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181007,North-Kivu,Vuhovi,,,,,,,,
+20181007,Tshopo,Kisangani,,,,,,,,
 20181007,all,all,35.0,146.0,21.0,21.0,115.0,80.0,50.0,15114.0
 20181008,Ituri,Bunia,,,,,,,,434.0
 20181008,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -1604,6 +1676,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181008,North-Kivu,Mutwanga,,,,,,,,
 20181008,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181008,North-Kivu,Vuhovi,,,,,,,,
+20181008,Tshopo,Kisangani,,,,,,,,
 20181008,all,all,35.0,153.0,20.0,20.0,118.0,83.0,51.0,15279.0
 20181009,Ituri,Bunia,,,,,,,,434.0
 20181009,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -1626,6 +1699,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181009,North-Kivu,Mutwanga,,,,,,,,
 20181009,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181009,North-Kivu,Vuhovi,,,,,,,,
+20181009,Tshopo,Kisangani,,,,,,,,
 20181009,all,all,35.0,159.0,25.0,25.0,122.0,87.0,53.0,15525.0
 20181010,Ituri,Bunia,,,,,,,,434.0
 20181010,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -1648,6 +1722,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181010,North-Kivu,Mutwanga,,,,,,,,
 20181010,North-Kivu,Oicha,1.0,2.0,1.0,1.0,1.0,0.0,2.0,121.0
 20181010,North-Kivu,Vuhovi,,,,,,,,
+20181010,Tshopo,Kisangani,,,,,,,,
 20181010,all,all,35.0,165.0,26.0,26.0,125.0,90.0,53.0,15807.0
 20181011,Ituri,Bunia,,,,,,,,434.0
 20181011,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -1670,6 +1745,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181011,North-Kivu,Mutwanga,,,,,,,,
 20181011,North-Kivu,Oicha,1.0,2.0,1.0,1.0,1.0,0.0,2.0,121.0
 20181011,North-Kivu,Vuhovi,,,,,,,,
+20181011,Tshopo,Kisangani,,,,,,,,
 20181011,all,all,35.0,170.0,32.0,32.0,130.0,95.0,54.0,16202.0
 20181012,Ituri,Bunia,,,,,,,,434.0
 20181012,Ituri,Komanda,0.0,1.0,,,0.0,0.0,0.0,240.0
@@ -1692,7 +1768,8 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181012,North-Kivu,Mutwanga,,,,,,,,
 20181012,North-Kivu,Oicha,1.0,2.0,,,1.0,0.0,2.0,121.0
 20181012,North-Kivu,Vuhovi,,,,,,,,
-20181012,all,all,35.0,172.0,,,130.0,95.0,54.0,16518.0
+20181012,Tshopo,Kisangani,,,,,,,,
+20181012,all,all,35.0,172.0,0.0,0.0,130.0,95.0,54.0,16518.0
 20181013,Ituri,Bunia,,,,,,,,434.0
 20181013,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181013,Ituri,Mambasa,,,,,,,,
@@ -1714,6 +1791,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181013,North-Kivu,Mutwanga,,,,,,,,
 20181013,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181013,North-Kivu,Vuhovi,,,,,,,,
+20181013,Tshopo,Kisangani,,,,,,,,
 20181013,all,all,35.0,176.0,24.0,24.0,135.0,100.0,55.0,16973.0
 20181014,Ituri,Bunia,,,,,,,,434.0
 20181014,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -1736,6 +1814,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181014,North-Kivu,Mutwanga,,,,,,,,
 20181014,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181014,North-Kivu,Vuhovi,,,,,,,,
+20181014,Tshopo,Kisangani,,,,,,,,
 20181014,all,all,35.0,179.0,25.0,25.0,139.0,104.0,55.0,17438.0
 20181015,Ituri,Bunia,,,,,,,,434.0
 20181015,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -1758,6 +1837,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181015,North-Kivu,Mutwanga,,,,,,,,
 20181015,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181015,North-Kivu,Vuhovi,,,,,,,,
+20181015,Tshopo,Kisangani,,,,,,,,
 20181015,all,all,35.0,181.0,32.0,32.0,139.0,104.0,57.0,17976.0
 20181016,Ituri,Bunia,,,,,,,,434.0
 20181016,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -1780,6 +1860,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181016,North-Kivu,Mutwanga,,,,,,,,
 20181016,North-Kivu,Oicha,1.0,2.0,1.0,1.0,1.0,0.0,2.0,121.0
 20181016,North-Kivu,Vuhovi,,,,,,,,
+20181016,Tshopo,Kisangani,,,,,,,,
 20181016,all,all,35.0,185.0,34.0,34.0,142.0,107.0,57.0,18465.0
 20181017,Ituri,Bunia,,,,,,,,434.0
 20181017,Ituri,Komanda,0.0,1.0,1.0,1.0,0.0,0.0,0.0,240.0
@@ -1802,6 +1883,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181017,North-Kivu,Mutwanga,,,,,,,,
 20181017,North-Kivu,Oicha,1.0,2.0,1.0,1.0,1.0,0.0,2.0,121.0
 20181017,North-Kivu,Vuhovi,,,,,,,,
+20181017,Tshopo,Kisangani,,,,,,,,
 20181017,all,all,35.0,188.0,46.0,46.0,144.0,109.0,57.0,18998.0
 20181018,Ituri,Bunia,,,,,,,,434.0
 20181018,Ituri,Komanda,0.0,1.0,1.0,1.0,0.0,0.0,0.0,240.0
@@ -1824,6 +1906,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181018,North-Kivu,Mutwanga,,,,,,,,
 20181018,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181018,North-Kivu,Vuhovi,,,,,,,,
+20181018,Tshopo,Kisangani,,,,,,,,
 20181018,all,all,35.0,192.0,40.0,40.0,147.0,112.0,58.0,19539.0
 20181019,Ituri,Bunia,,,,,,,,434.0
 20181019,Ituri,Komanda,0.0,1.0,2.0,2.0,0.0,0.0,0.0,240.0
@@ -1846,6 +1929,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181019,North-Kivu,Mutwanga,,,,,,,,
 20181019,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181019,North-Kivu,Vuhovi,,,,,,,,
+20181019,Tshopo,Kisangani,,,,,,,,
 20181019,all,all,35.0,200.0,40.0,40.0,152.0,117.0,61.0,20229.0
 20181020,Ituri,Bunia,,,,,,,,434.0
 20181020,Ituri,Komanda,0.0,1.0,2.0,2.0,0.0,0.0,0.0,240.0
@@ -1868,6 +1952,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181020,North-Kivu,Mutwanga,,,,,,,,50.0
 20181020,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181020,North-Kivu,Vuhovi,,,,,,,,
+20181020,Tshopo,Kisangani,,,,,,,,
 20181020,all,all,35.0,202.0,33.0,33.0,153.0,118.0,63.0,20789.0
 20181021,Ituri,Bunia,,,,,,,,434.0
 20181021,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -1890,6 +1975,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181021,North-Kivu,Mutwanga,,,,,,,,50.0
 20181021,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181021,North-Kivu,Vuhovi,,,,,,,,
+20181021,Tshopo,Kisangani,,,,,,,,
 20181021,all,all,35.0,203.0,14.0,14.0,155.0,120.0,63.0,20849.0
 20181022,Ituri,Bunia,,,,,,,,434.0
 20181022,Ituri,Komanda,0.0,1.0,1.0,1.0,0.0,0.0,0.0,240.0
@@ -1912,6 +1998,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181022,North-Kivu,Mutwanga,,,,,,,,50.0
 20181022,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181022,North-Kivu,Vuhovi,,,,,,,,
+20181022,Tshopo,Kisangani,,,,,,,,
 20181022,all,all,35.0,209.0,37.0,37.0,157.0,122.0,63.0,20939.0
 20181023,Ituri,Bunia,,,,,,,,434.0
 20181023,Ituri,Komanda,0.0,1.0,2.0,2.0,0.0,0.0,0.0,240.0
@@ -1934,6 +2021,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181023,North-Kivu,Mutwanga,,,,,,,,100.0
 20181023,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181023,North-Kivu,Vuhovi,,,,,,,,
+20181023,Tshopo,Kisangani,,,,,,,,
 20181023,all,all,35.0,212.0,48.0,48.0,159.0,124.0,65.0,21553.0
 20181024,Ituri,Bunia,,,,,,,,434.0
 20181024,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -1956,6 +2044,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181024,North-Kivu,Mutwanga,,,,,,,,100.0
 20181024,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181024,North-Kivu,Vuhovi,,,,,,,,
+20181024,Tshopo,Kisangani,,,,,,,,
 20181024,all,all,35.0,216.0,46.0,46.0,162.0,127.0,67.0,22326.0
 20181025,Ituri,Bunia,,,,,,,,434.0
 20181025,Ituri,Komanda,0.0,1.0,2.0,2.0,0.0,0.0,0.0,240.0
@@ -1978,6 +2067,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181025,North-Kivu,Mutwanga,,,,,,,,100.0
 20181025,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181025,North-Kivu,Vuhovi,,,,,,,,
+20181025,Tshopo,Kisangani,,,,,,,,
 20181025,all,all,35.0,222.0,47.0,47.0,164.0,129.0,67.0,22811.0
 20181026,Ituri,Bunia,,,,,,,,434.0
 20181026,Ituri,Komanda,0.0,1.0,1.0,1.0,0.0,0.0,0.0,240.0
@@ -2000,6 +2090,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181026,North-Kivu,Mutwanga,,,,,,,,100.0
 20181026,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181026,North-Kivu,Vuhovi,,,,,,,,
+20181026,Tshopo,Kisangani,,,,,,,,
 20181026,all,all,35.0,231.0,42.0,42.0,168.0,133.0,70.0,23284.0
 20181027,Ituri,Bunia,,,,,,,,434.0
 20181027,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -2022,6 +2113,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181027,North-Kivu,Mutwanga,,,,,,,,100.0
 20181027,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181027,North-Kivu,Vuhovi,,,,,,,,
+20181027,Tshopo,Kisangani,,,,,,,,
 20181027,all,all,35.0,232.0,43.0,43.0,170.0,135.0,70.0,23691.0
 20181028,Ituri,Bunia,,,,,,,,434.0
 20181028,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -2044,6 +2136,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181028,North-Kivu,Mutwanga,,,,,,,,100.0
 20181028,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181028,North-Kivu,Vuhovi,,,,,,,,40.0
+20181028,Tshopo,Kisangani,,,,,,,,
 20181028,all,all,35.0,239.0,32.0,32.0,174.0,139.0,73.0,24142.0
 20181029,Ituri,Bunia,,,,,,,,434.0
 20181029,Ituri,Komanda,0.0,1.0,4.0,4.0,0.0,0.0,0.0,240.0
@@ -2066,6 +2159,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181029,North-Kivu,Mutwanga,,,,,,,,100.0
 20181029,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,121.0
 20181029,North-Kivu,Vuhovi,,,,,,,,110.0
+20181029,Tshopo,Kisangani,,,,,,,,
 20181029,all,all,35.0,241.0,65.0,65.0,175.0,140.0,74.0,24510.0
 20181030,Ituri,Bunia,,,,,,,,434.0
 20181030,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -2088,6 +2182,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181030,North-Kivu,Mutwanga,,,,,,,,100.0
 20181030,North-Kivu,Oicha,1.0,2.0,2.0,2.0,1.0,0.0,2.0,121.0
 20181030,North-Kivu,Vuhovi,0.0,1.0,0.0,0.0,1.0,1.0,0.0,110.0
+20181030,Tshopo,Kisangani,,,,,,,,
 20181030,all,all,35.0,244.0,51.0,51.0,179.0,144.0,81.0,24863.0
 20181031,Ituri,Bunia,,,,,,,,434.0
 20181031,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -2110,6 +2205,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181031,North-Kivu,Mutwanga,,,,,,,,100.0
 20181031,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,143.0
 20181031,North-Kivu,Vuhovi,0.0,1.0,0.0,0.0,1.0,1.0,0.0,110.0
+20181031,Tshopo,Kisangani,,,,,,,,
 20181031,all,all,35.0,250.0,41.0,41.0,180.0,145.0,81.0,25336.0
 20181101,Ituri,Bunia,,,,,,,,434.0
 20181101,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -2132,6 +2228,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181101,North-Kivu,Mutwanga,,,,,,,,100.0
 20181101,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,178.0
 20181101,North-Kivu,Vuhovi,0.0,1.0,0.0,0.0,1.0,1.0,0.0,130.0
+20181101,Tshopo,Kisangani,,,,,,,,
 20181101,all,all,35.0,252.0,39.0,39.0,181.0,146.0,81.0,25600.0
 20181102,Ituri,Bunia,,,,,,,,434.0
 20181102,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -2154,6 +2251,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181102,North-Kivu,Mutwanga,,,,,,,,100.0
 20181102,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,178.0
 20181102,North-Kivu,Vuhovi,0.0,1.0,0.0,0.0,1.0,1.0,0.0,130.0
+20181102,Tshopo,Kisangani,,,,,,,,
 20181102,all,all,35.0,258.0,50.0,50.0,182.0,147.0,81.0,25845.0
 20181103,Ituri,Bunia,,,,,,,,434.0
 20181103,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -2176,6 +2274,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181103,North-Kivu,Mutwanga,,,,,,,,150.0
 20181103,North-Kivu,Oicha,1.0,2.0,2.0,2.0,1.0,0.0,2.0,178.0
 20181103,North-Kivu,Vuhovi,0.0,1.0,0.0,0.0,1.0,1.0,0.0,130.0
+20181103,Tshopo,Kisangani,,,,,,,,
 20181103,all,all,35.0,263.0,46.0,46.0,186.0,151.0,81.0,26135.0
 20181104,Ituri,Bunia,,,,,,,,434.0
 20181104,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -2198,6 +2297,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181104,North-Kivu,Mutwanga,,,,,,,,150.0
 20181104,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,178.0
 20181104,North-Kivu,Vuhovi,0.0,1.0,1.0,1.0,1.0,1.0,0.0,130.0
+20181104,Tshopo,Kisangani,,,,,,,,
 20181104,all,all,35.0,265.0,41.0,41.0,186.0,151.0,88.0,26463.0
 20181105,Ituri,Bunia,,,,,,,,434.0
 20181105,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -2220,6 +2320,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181105,North-Kivu,Mutwanga,,,,,,,,184.0
 20181105,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,178.0
 20181105,North-Kivu,Vuhovi,0.0,1.0,0.0,0.0,1.0,1.0,0.0,130.0
+20181105,Tshopo,Kisangani,,,,,,,,
 20181105,all,all,35.0,270.0,60.0,60.0,189.0,154.0,88.0,26724.0
 20181106,Ituri,Bunia,,,,,,,,
 20181106,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,
@@ -2242,6 +2343,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181106,North-Kivu,Mutwanga,,,,,,,,
 20181106,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,
 20181106,North-Kivu,Vuhovi,0.0,2.0,1.0,1.0,2.0,2.0,0.0,
+20181106,Tshopo,Kisangani,,,,,,,,
 20181106,all,all,35.0,273.0,39.0,39.0,191.0,156.0,91.0,
 20181107,Ituri,Bunia,,,,,,,,434.0
 20181107,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -2264,6 +2366,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181107,North-Kivu,Mutwanga,0.0,1.0,1.0,1.0,0.0,0.0,0.0,185.0
 20181107,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,178.0
 20181107,North-Kivu,Vuhovi,0.0,2.0,1.0,1.0,2.0,2.0,0.0,190.0
+20181107,Tshopo,Kisangani,,,,,,,,
 20181107,all,all,35.0,277.0,40.0,40.0,191.0,156.0,91.0,27398.0
 20181108,Ituri,Bunia,,,,,,,,434.0
 20181108,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -2286,6 +2389,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181108,North-Kivu,Mutwanga,0.0,1.0,0.0,0.0,1.0,1.0,0.0,185.0
 20181108,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,2.0,178.0
 20181108,North-Kivu,Vuhovi,0.0,3.0,0.0,0.0,2.0,2.0,0.0,250.0
+20181108,Tshopo,Kisangani,,,,,,,,
 20181108,all,all,35.0,284.0,52.0,52.0,198.0,163.0,97.0,27832.0
 20181109,Ituri,Bunia,,,,,,,,434.0
 20181109,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
@@ -2308,6 +2412,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181109,North-Kivu,Mutwanga,0.0,1.0,1.0,1.0,1.0,1.0,0.0,185.0
 20181109,North-Kivu,Oicha,1.0,2.0,1.0,1.0,1.0,0.0,2.0,178.0
 20181109,North-Kivu,Vuhovi,0.0,3.0,0.0,0.0,2.0,2.0,0.0,250.0
+20181109,Tshopo,Kisangani,,,,,,,,
 20181109,all,all,35.0,291.0,47.0,47.0,201.0,166.0,98.0,28303.0
 20181110,Ituri,Bunia,,,,,,,,434.0
 20181110,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
@@ -2330,6 +2435,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181110,North-Kivu,Mutwanga,0.0,1.0,0.0,0.0,1.0,1.0,,258.0
 20181110,North-Kivu,Oicha,1.0,2.0,0.0,0.0,1.0,0.0,,178.0
 20181110,North-Kivu,Vuhovi,0.0,3.0,1.0,1.0,2.0,2.0,,293.0
+20181110,Tshopo,Kisangani,,,,,,,,
 20181110,all,all,35.0,294.0,38.0,38.0,205.0,170.0,,28727.0
 20181111,Ituri,Bunia,,,,,,,,434.0
 20181111,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
@@ -2352,6 +2458,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181111,North-Kivu,Mutwanga,0.0,1.0,1.0,1.0,1.0,1.0,,258.0
 20181111,North-Kivu,Oicha,0.0,2.0,1.0,1.0,0.0,0.0,,178.0
 20181111,North-Kivu,Vuhovi,0.0,2.0,1.0,1.0,2.0,2.0,,293.0
+20181111,Tshopo,Kisangani,,,,,,,,
 20181111,all,all,38.0,295.0,49.0,49.0,209.0,171.0,,28991.0
 20181112,Ituri,Bunia,,,,,,,,434.0
 20181112,Ituri,Komanda,0.0,1.0,0.0,0.0,,,,240.0
@@ -2374,6 +2481,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181112,North-Kivu,Mutwanga,0.0,1.0,0.0,0.0,,,,292.0
 20181112,North-Kivu,Oicha,0.0,2.0,0.0,0.0,,,,178.0
 20181112,North-Kivu,Vuhovi,0.0,2.0,0.0,0.0,,,,293.0
+20181112,Tshopo,Kisangani,,,,,,,,
 20181112,all,all,38.0,301.0,43.0,43.0,,,,29434.0
 20181113,Ituri,Bunia,,,,,,,,434.0
 20181113,Ituri,Komanda,0.0,1.0,0.0,0.0,,,,240.0
@@ -2396,6 +2504,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181113,North-Kivu,Mutwanga,0.0,1.0,2.0,2.0,,,,292.0
 20181113,North-Kivu,Oicha,0.0,2.0,0.0,0.0,,,,178.0
 20181113,North-Kivu,Vuhovi,0.0,2.0,0.0,0.0,,,,293.0
+20181113,Tshopo,Kisangani,,,,,,,,
 20181113,all,all,38.0,303.0,50.0,50.0,215.0,177.0,,30072.0
 20181114,Ituri,Bunia,,,,,,,,434.0
 20181114,Ituri,Komanda,0.0,1.0,0.0,0.0,,,,240.0
@@ -2418,6 +2527,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181114,North-Kivu,Mutwanga,0.0,1.0,0.0,0.0,,,,292.0
 20181114,North-Kivu,Oicha,0.0,2.0,1.0,1.0,,,,178.0
 20181114,North-Kivu,Vuhovi,0.0,2.0,0.0,0.0,,,,293.0
+20181114,Tshopo,Kisangani,,,,,,,,
 20181114,all,all,40.0,304.0,45.0,45.0,202.0,162.0,,30563.0
 20181115,Ituri,Bunia,,,,,,,,434.0
 20181115,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
@@ -2440,6 +2550,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181115,North-Kivu,Mutwanga,0.0,1.0,1.0,1.0,0.0,0.0,,292.0
 20181115,North-Kivu,Oicha,0.0,2.0,0.0,0.0,0.0,0.0,,178.0
 20181115,North-Kivu,Vuhovi,0.0,2.0,3.0,3.0,1.0,1.0,,293.0
+20181115,Tshopo,Kisangani,,,,,,,,
 20181115,all,all,47.0,305.0,90.0,90.0,210.0,163.0,,31224.0
 20181116,Ituri,Bunia,,,,,,,,434.0
 20181116,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
@@ -2462,6 +2573,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181116,North-Kivu,Mutwanga,0.0,1.0,0.0,0.0,0.0,0.0,,292.0
 20181116,North-Kivu,Oicha,0.0,2.0,0.0,0.0,0.0,0.0,,178.0
 20181116,North-Kivu,Vuhovi,0.0,2.0,0.0,0.0,1.0,1.0,,330.0
+20181116,Tshopo,Kisangani,,,,,,,,
 20181116,all,all,47.0,311.0,57.0,57.0,213.0,166.0,,31663.0
 20181117,Ituri,Bunia,,,,,,,,434.0
 20181117,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
@@ -2484,6 +2596,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181117,North-Kivu,Mutwanga,0.0,1.0,0.0,0.0,0.0,0.0,,292.0
 20181117,North-Kivu,Oicha,0.0,2.0,1.0,1.0,0.0,0.0,,178.0
 20181117,North-Kivu,Vuhovi,0.0,2.0,1.0,1.0,1.0,1.0,,359.0
+20181117,Tshopo,Kisangani,,,,,,,,
 20181117,all,all,47.0,319.0,66.0,66.0,214.0,167.0,,31953.0
 20181118,Ituri,Bunia,,,,,,,,434.0
 20181118,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
@@ -2506,6 +2619,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181118,North-Kivu,Mutwanga,0.0,1.0,0.0,0.0,0.0,0.0,,292.0
 20181118,North-Kivu,Oicha,0.0,2.0,0.0,0.0,0.0,0.0,,178.0
 20181118,North-Kivu,Vuhovi,0.0,2.0,1.0,1.0,1.0,1.0,,359.0
+20181118,Tshopo,Kisangani,,,,,,,,
 20181118,all,all,47.0,326.0,72.0,72.0,216.0,169.0,,32108.0
 20181119,Ituri,Bunia,,,,,,,,434.0
 20181119,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
@@ -2528,6 +2642,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181119,North-Kivu,Mutwanga,0.0,1.0,2.0,2.0,0.0,0.0,,292.0
 20181119,North-Kivu,Oicha,0.0,2.0,2.0,2.0,0.0,0.0,,178.0
 20181119,North-Kivu,Vuhovi,0.0,2.0,0.0,0.0,1.0,1.0,,359.0
+20181119,Tshopo,Kisangani,,,,,,,,
 20181119,all,all,47.0,326.0,71.0,71.0,217.0,170.0,,32626.0
 20181120,Ituri,Bunia,,,,,,,,434.0
 20181120,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
@@ -2550,6 +2665,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181120,North-Kivu,Mutwanga,0.0,2.0,0.0,0.0,1.0,1.0,,292.0
 20181120,North-Kivu,Oicha,0.0,3.0,0.0,0.0,0.0,0.0,,178.0
 20181120,North-Kivu,Vuhovi,0.0,2.0,0.0,0.0,1.0,1.0,,359.0
+20181120,Tshopo,Kisangani,,,,,,,,
 20181120,all,all,47.0,339.0,48.0,48.0,219.0,172.0,,33077.0
 20181121,Ituri,Bunia,,,,,,,,434.0
 20181121,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
@@ -2572,6 +2688,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181121,North-Kivu,Mutwanga,0.0,2.0,1.0,1.0,1.0,1.0,,292.0
 20181121,North-Kivu,Oicha,0.0,3.0,0.0,0.0,0.0,0.0,,178.0
 20181121,North-Kivu,Vuhovi,0.0,2.0,2.0,2.0,1.0,1.0,,359.0
+20181121,Tshopo,Kisangani,,,,,,,,
 20181121,all,all,47.0,346.0,73.0,73.0,222.0,175.0,,33498.0
 20181122,Ituri,Bunia,,,,,,,,434.0
 20181122,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
@@ -2594,6 +2711,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181122,North-Kivu,Mutwanga,0.0,2.0,1.0,1.0,1.0,1.0,,292.0
 20181122,North-Kivu,Oicha,0.0,4.0,1.0,1.0,1.0,1.0,,178.0
 20181122,North-Kivu,Vuhovi,0.0,2.0,0.0,0.0,1.0,1.0,,359.0
+20181122,Tshopo,Kisangani,,,,,,,,
 20181122,all,all,47.0,352.0,91.0,91.0,228.0,181.0,,34091.0
 20181123,Ituri,Bunia,,,,,,,,434.0
 20181123,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
@@ -2616,6 +2734,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181123,North-Kivu,Mutwanga,0.0,2.0,1.0,1.0,1.0,1.0,,292.0
 20181123,North-Kivu,Oicha,0.0,4.0,2.0,2.0,1.0,1.0,,268.0
 20181123,North-Kivu,Vuhovi,0.0,2.0,0.0,0.0,1.0,1.0,,359.0
+20181123,Tshopo,Kisangani,,,,,,,,
 20181123,all,all,47.0,356.0,56.0,56.0,231.0,184.0,,34839.0
 20181124,Ituri,Bunia,,,,,,,,434.0
 20181124,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
@@ -2638,6 +2757,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181124,North-Kivu,Mutwanga,0.0,2.0,1.0,1.0,1.0,1.0,,355.0
 20181124,North-Kivu,Oicha,0.0,4.0,5.0,5.0,1.0,1.0,,363.0
 20181124,North-Kivu,Vuhovi,0.0,2.0,2.0,2.0,1.0,1.0,,359.0
+20181124,Tshopo,Kisangani,,,,,,,,
 20181124,all,all,47.0,365.0,75.0,75.0,236.0,189.0,,35224.0
 20181125,Ituri,Bunia,,,,,,,,434.0
 20181125,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
@@ -2660,6 +2780,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181125,North-Kivu,Mutwanga,0.0,2.0,0.0,0.0,1.0,1.0,,355.0
 20181125,North-Kivu,Oicha,0.0,4.0,0.0,0.0,1.0,1.0,,452.0
 20181125,North-Kivu,Vuhovi,0.0,2.0,1.0,1.0,1.0,1.0,,359.0
+20181125,Tshopo,Kisangani,,,,,,,,
 20181125,all,all,47.0,372.0,59.0,59.0,240.0,193.0,,35958.0
 20181126,Ituri,Bunia,,,,,,,,434.0
 20181126,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
@@ -2682,6 +2803,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181126,North-Kivu,Mutwanga,0.0,2.0,2.0,2.0,1.0,1.0,,355.0
 20181126,North-Kivu,Oicha,0.0,4.0,2.0,2.0,1.0,1.0,,521.0
 20181126,North-Kivu,Vuhovi,0.0,2.0,0.0,0.0,1.0,1.0,,359.0
+20181126,Tshopo,Kisangani,,,,,,,,
 20181126,all,all,47.0,374.0,74.0,74.0,241.0,194.0,,36612.0
 20181127,Ituri,Bunia,,,,,,,,434.0
 20181127,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
@@ -2704,6 +2826,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181127,North-Kivu,Mutwanga,0.0,2.0,1.0,1.0,1.0,1.0,,355.0
 20181127,North-Kivu,Oicha,0.0,4.0,1.0,1.0,1.0,1.0,,521.0
 20181127,North-Kivu,Vuhovi,0.0,2.0,1.0,1.0,1.0,1.0,,359.0
+20181127,Tshopo,Kisangani,,,,,,,,
 20181127,all,all,47.0,375.0,74.0,74.0,242.0,195.0,,37097.0
 20181128,Ituri,Bunia,,,,,,,,434.0
 20181128,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
@@ -2726,6 +2849,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181128,North-Kivu,Mutwanga,0.0,2.0,2.0,2.0,1.0,1.0,,431.0
 20181128,North-Kivu,Oicha,0.0,4.0,0.0,0.0,1.0,1.0,,521.0
 20181128,North-Kivu,Vuhovi,0.0,3.0,1.0,1.0,1.0,1.0,,359.0
+20181128,Tshopo,Kisangani,,,,,,,,
 20181128,all,all,47.0,379.0,87.0,87.0,245.0,198.0,,37559.0
 20181129,Ituri,Bunia,,,,,,,,434.0
 20181129,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
@@ -2748,6 +2872,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181129,North-Kivu,Mutwanga,0.0,2.0,0.0,0.0,1.0,1.0,,431.0
 20181129,North-Kivu,Oicha,0.0,4.0,3.0,3.0,1.0,1.0,,521.0
 20181129,North-Kivu,Vuhovi,0.0,3.0,1.0,1.0,1.0,1.0,,475.0
+20181129,Tshopo,Kisangani,,,,,,,,
 20181129,all,all,48.0,380.0,66.0,66.0,248.0,200.0,,38018.0
 20181130,Ituri,Bunia,,,,,,,,434.0
 20181130,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
@@ -2770,6 +2895,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181130,North-Kivu,Mutwanga,0.0,3.0,1.0,1.0,1.0,1.0,,431.0
 20181130,North-Kivu,Oicha,0.0,4.0,0.0,0.0,1.0,1.0,,521.0
 20181130,North-Kivu,Vuhovi,0.0,4.0,1.0,1.0,1.0,1.0,,522.0
+20181130,Tshopo,Kisangani,,,,,,,,
 20181130,all,all,48.0,386.0,83.0,83.0,252.0,204.0,,38353.0
 20181201,Ituri,Bunia,,,,,,,,434.0
 20181201,Ituri,Komanda,0.0,2.0,0.0,0.0,1.0,1.0,,240.0
@@ -2792,6 +2918,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181201,North-Kivu,Mutwanga,0.0,3.0,1.0,1.0,1.0,1.0,,511.0
 20181201,North-Kivu,Oicha,0.0,4.0,0.0,0.0,1.0,1.0,,521.0
 20181201,North-Kivu,Vuhovi,0.0,5.0,1.0,1.0,1.0,1.0,,547.0
+20181201,Tshopo,Kisangani,,,,,,,,
 20181201,all,all,48.0,392.0,97.0,97.0,255.0,207.0,,38821.0
 20181202,Ituri,Bunia,,,,,,,,434.0
 20181202,Ituri,Komanda,0.0,2.0,0.0,0.0,1.0,1.0,,240.0
@@ -2814,6 +2941,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181202,North-Kivu,Mutwanga,0.0,3.0,1.0,1.0,1.0,1.0,,549.0
 20181202,North-Kivu,Oicha,0.0,4.0,1.0,1.0,1.0,1.0,,521.0
 20181202,North-Kivu,Vuhovi,0.0,5.0,0.0,0.0,1.0,1.0,,609.0
+20181202,Tshopo,Kisangani,,,,,,,,
 20181202,all,all,48.0,396.0,72.0,72.0,260.0,212.0,,39277.0
 20181203,Ituri,Bunia,,,,,,,,434.0
 20181203,Ituri,Komanda,0.0,8.0,3.0,3.0,4.0,4.0,,260.0
@@ -2836,6 +2964,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181203,North-Kivu,Mutwanga,0.0,3.0,0.0,0.0,1.0,1.0,,549.0
 20181203,North-Kivu,Oicha,0.0,4.0,0.0,0.0,1.0,1.0,,521.0
 20181203,North-Kivu,Vuhovi,0.0,5.0,2.0,2.0,1.0,1.0,,659.0
+20181203,Tshopo,Kisangani,,,,,,,,
 20181203,all,all,48.0,405.0,71.0,71.0,268.0,220.0,,39845.0
 20181204,Ituri,Bunia,,,,,,,,434.0
 20181204,Ituri,Komanda,0.0,9.0,2.0,2.0,5.0,5.0,,349.0
@@ -2858,6 +2987,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181204,North-Kivu,Mutwanga,0.0,3.0,0.0,0.0,1.0,1.0,,599.0
 20181204,North-Kivu,Oicha,0.0,4.0,0.0,0.0,1.0,1.0,,521.0
 20181204,North-Kivu,Vuhovi,0.0,5.0,1.0,1.0,1.0,1.0,,729.0
+20181204,Tshopo,Kisangani,,,,,,,,
 20181204,all,all,48.0,410.0,94.0,94.0,271.0,223.0,,40493.0
 20181205,Ituri,Bunia,,,,,,,,434.0
 20181205,Ituri,Komanda,0.0,9.0,1.0,1.0,5.0,5.0,,409.0
@@ -2880,6 +3010,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181205,North-Kivu,Mutwanga,0.0,3.0,2.0,2.0,1.0,1.0,,599.0
 20181205,North-Kivu,Oicha,0.0,7.0,3.0,3.0,1.0,1.0,,521.0
 20181205,North-Kivu,Vuhovi,0.0,5.0,2.0,2.0,1.0,1.0,,769.0
+20181205,Tshopo,Kisangani,,,,,,,,
 20181205,all,all,48.0,423.0,106.0,106.0,273.0,225.0,,41226.0
 20181206,Ituri,Bunia,,,,,,,,434.0
 20181206,Ituri,Komanda,0.0,9.0,3.0,3.0,5.0,5.0,,496.0
@@ -2902,6 +3033,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181206,North-Kivu,Mutwanga,0.0,3.0,1.0,1.0,1.0,1.0,,599.0
 20181206,North-Kivu,Oicha,0.0,7.0,3.0,3.0,1.0,1.0,,521.0
 20181206,North-Kivu,Vuhovi,0.0,5.0,1.0,1.0,1.0,1.0,,769.0
+20181206,Tshopo,Kisangani,,,,,,,,
 20181206,all,all,48.0,429.0,94.0,94.0,275.0,227.0,,41817.0
 20181207,Ituri,Bunia,,,,,,,,434.0
 20181207,Ituri,Komanda,0.0,8.0,0.0,0.0,4.0,4.0,,575.0
@@ -2924,6 +3056,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181207,North-Kivu,Mutwanga,0.0,3.0,1.0,1.0,2.0,2.0,,599.0
 20181207,North-Kivu,Oicha,0.0,7.0,1.0,1.0,2.0,2.0,,521.0
 20181207,North-Kivu,Vuhovi,0.0,7.0,1.0,1.0,2.0,2.0,,769.0
+20181207,Tshopo,Kisangani,,,,,,,,
 20181207,all,all,48.0,441.0,89.0,89.0,280.0,232.0,,42673.0
 20181208,Ituri,Bunia,,,,,,,,434.0
 20181208,Ituri,Komanda,0.0,8.0,1.0,1.0,4.0,4.0,,633.0
@@ -2946,6 +3079,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181208,North-Kivu,Mutwanga,0.0,3.0,1.0,1.0,2.0,2.0,,599.0
 20181208,North-Kivu,Oicha,0.0,7.0,1.0,1.0,2.0,2.0,,521.0
 20181208,North-Kivu,Vuhovi,0.0,7.0,3.0,3.0,2.0,2.0,,769.0
+20181208,Tshopo,Kisangani,,,,,,,,
 20181208,all,all,48.0,446.0,69.0,69.0,283.0,235.0,,43389.0
 20181209,Ituri,Bunia,,,,,,,,434.0
 20181209,Ituri,Komanda,0.0,8.0,0.0,0.0,4.0,4.0,,633.0
@@ -2968,4 +3102,51 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181209,North-Kivu,Mutwanga,0.0,3.0,0.0,0.0,2.0,2.0,,599.0
 20181209,North-Kivu,Oicha,0.0,7.0,0.0,0.0,2.0,2.0,,627.0
 20181209,North-Kivu,Vuhovi,0.0,8.0,1.0,1.0,3.0,3.0,,769.0
+20181209,Tshopo,Kisangani,,,,,,,,
 20181209,all,all,48.0,450.0,73.0,73.0,285.0,237.0,,43944.0
+20181210,Ituri,Bunia,,,,,,,,434.0
+20181210,Ituri,Komanda,0.0,8.0,0.0,0.0,4.0,4.0,,633.0
+20181210,Ituri,Mambasa,0.0,1.0,1.0,1.0,1.0,1.0,,
+20181210,Ituri,Mandima,3.0,16.0,2.0,2.0,12.0,9.0,,1663.0
+20181210,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
+20181210,Kinshasa,Kinshasa,,,,,,,,
+20181210,North-Kivu,Alimbongo,,,,,,,,63.0
+20181210,North-Kivu,Beni,9.0,204.0,40.0,40.0,114.0,105.0,,18559.0
+20181210,North-Kivu,Butembo,0.0,30.0,8.0,8.0,16.0,16.0,,4276.0
+20181210,North-Kivu,Goma,,,,,,,,
+20181210,North-Kivu,Kalunguta,12.0,31.0,0.0,0.0,28.0,16.0,,2108.0
+20181210,North-Kivu,Katwa,4.0,56.0,15.0,15.0,38.0,34.0,,7346.0
+20181210,North-Kivu,Kyondo,2.0,4.0,0.0,0.0,3.0,1.0,,301.0
+20181210,North-Kivu,Lubero,0.0,0.0,2.0,2.0,0.0,0.0,,700.0
+20181210,North-Kivu,Mabalako,16.0,73.0,8.0,8.0,58.0,42.0,,4915.0
+20181210,North-Kivu,Mangurujipa,,,,,,,,
+20181210,North-Kivu,Masereka,1.0,7.0,0.0,0.0,3.0,2.0,,750.0
+20181210,North-Kivu,Musienene,1.0,2.0,2.0,2.0,3.0,2.0,,314.0
+20181210,North-Kivu,Mutwanga,0.0,3.0,0.0,0.0,2.0,2.0,,599.0
+20181210,North-Kivu,Oicha,0.0,7.0,0.0,0.0,2.0,2.0,,627.0
+20181210,North-Kivu,Vuhovi,0.0,8.0,2.0,2.0,3.0,3.0,,791.0
+20181210,Tshopo,Kisangani,,,,,,,,13.0
+20181210,all,all,48.0,452.0,80.0,80.0,289.0,241.0,,44447.0
+20181211,Ituri,Bunia,,,,,,,,434.0
+20181211,Ituri,Komanda,0.0,9.0,2.0,2.0,4.0,4.0,,633.0
+20181211,Ituri,Mambasa,,,,,,,,
+20181211,Ituri,Mandima,3.0,17.0,2.0,2.0,13.0,10.0,,1663.0
+20181211,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
+20181211,Kinshasa,Kinshasa,,,,,,,,
+20181211,North-Kivu,Alimbongo,,,,,,,,63.0
+20181211,North-Kivu,Beni,9.0,204.0,62.0,62.0,120.0,111.0,,18638.0
+20181211,North-Kivu,Butembo,0.0,30.0,8.0,8.0,16.0,16.0,,4276.0
+20181211,North-Kivu,Goma,,,,,,,,
+20181211,North-Kivu,Kalunguta,12.0,31.0,2.0,2.0,28.0,16.0,,2108.0
+20181211,North-Kivu,Katwa,4.0,58.0,15.0,15.0,40.0,36.0,,7765.0
+20181211,North-Kivu,Kyondo,2.0,4.0,0.0,0.0,3.0,1.0,,361.0
+20181211,North-Kivu,Lubero,0.0,0.0,1.0,1.0,0.0,0.0,,700.0
+20181211,North-Kivu,Mabalako,16.0,74.0,4.0,4.0,59.0,43.0,,4930.0
+20181211,North-Kivu,Mangurujipa,,,,,,,,
+20181211,North-Kivu,Masereka,1.0,7.0,1.0,1.0,3.0,2.0,,750.0
+20181211,North-Kivu,Musienene,1.0,3.0,1.0,1.0,3.0,2.0,,314.0
+20181211,North-Kivu,Mutwanga,0.0,3.0,0.0,0.0,2.0,2.0,,599.0
+20181211,North-Kivu,Oicha,0.0,7.0,1.0,1.0,2.0,2.0,,627.0
+20181211,North-Kivu,Vuhovi,0.0,8.0,1.0,1.0,3.0,3.0,,791.0
+20181211,Tshopo,Kisangani,,,,,,,,13.0
+20181211,all,all,48.0,457.0,100.0,100.0,298.0,250.0,,45020.0
