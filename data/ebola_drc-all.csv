@@ -3,6 +3,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180728,Ituri,Komanda,,,,,,,,
 20180728,Ituri,Mambasa,,,,,,,,
 20180728,Ituri,Mandima,,,,,,,,
+20180728,Ituri,Nyankunde,,,,,,,,
 20180728,Ituri,Tchomia,,,,,,,,
 20180728,Kinshasa,Kinshasa,,,,,,,,
 20180728,North-Kivu,Alimbongo,,,,,,,,
@@ -28,6 +29,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180729,Ituri,Komanda,,,,,,,,
 20180729,Ituri,Mambasa,,,,,,,,
 20180729,Ituri,Mandima,,,,,,,,
+20180729,Ituri,Nyankunde,,,,,,,,
 20180729,Ituri,Tchomia,,,,,,,,
 20180729,Kinshasa,Kinshasa,,,,,,,,
 20180729,North-Kivu,Alimbongo,,,,,,,,
@@ -53,6 +55,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180730,Ituri,Komanda,,,,,,,,
 20180730,Ituri,Mambasa,,,,,,,,
 20180730,Ituri,Mandima,,,,,,,,
+20180730,Ituri,Nyankunde,,,,,,,,
 20180730,Ituri,Tchomia,,,,,,,,
 20180730,Kinshasa,Kinshasa,,,,,,,,
 20180730,North-Kivu,Alimbongo,,,,,,,,
@@ -78,6 +81,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180731,Ituri,Komanda,,,,,,,,
 20180731,Ituri,Mambasa,,,,,,,,
 20180731,Ituri,Mandima,,,,,,,,
+20180731,Ituri,Nyankunde,,,,,,,,
 20180731,Ituri,Tchomia,,,,,,,,
 20180731,Kinshasa,Kinshasa,,,,,,,,
 20180731,North-Kivu,Alimbongo,,,,,,,,
@@ -103,6 +107,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180801,Ituri,Komanda,,,,,,,,
 20180801,Ituri,Mambasa,,,,,,,,
 20180801,Ituri,Mandima,,,,,,,,
+20180801,Ituri,Nyankunde,,,,,,,,
 20180801,Ituri,Tchomia,,,,,,,,
 20180801,Kinshasa,Kinshasa,,,,,,,,
 20180801,North-Kivu,Alimbongo,,,,,,,,
@@ -128,6 +133,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180802,Ituri,Komanda,,,,,,,,
 20180802,Ituri,Mambasa,,,,,,,,
 20180802,Ituri,Mandima,,,,,,,,
+20180802,Ituri,Nyankunde,,,,,,,,
 20180802,Ituri,Tchomia,,,,,,,,
 20180802,Kinshasa,Kinshasa,,,,,,,,
 20180802,North-Kivu,Alimbongo,,,,,,,,
@@ -153,6 +159,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180803,Ituri,Komanda,,,,,,,,
 20180803,Ituri,Mambasa,0.0,0.0,0.0,5.0,0.0,0.0,,
 20180803,Ituri,Mandima,5.0,0.0,0.0,0.0,5.0,0.0,,
+20180803,Ituri,Nyankunde,,,,,,,,
 20180803,Ituri,Tchomia,,,,,,,,
 20180803,Kinshasa,Kinshasa,,,,,,,,
 20180803,North-Kivu,Alimbongo,,,,,,,,
@@ -178,6 +185,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180804,Ituri,Komanda,,,,,,,,
 20180804,Ituri,Mambasa,,,,,,,,
 20180804,Ituri,Mandima,,,,,,,,
+20180804,Ituri,Nyankunde,,,,,,,,
 20180804,Ituri,Tchomia,,,,,,,,
 20180804,Kinshasa,Kinshasa,,,,,,,,
 20180804,North-Kivu,Alimbongo,,,,,,,,
@@ -203,6 +211,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180805,Ituri,Komanda,,,,,,,,
 20180805,Ituri,Mambasa,0.0,0.0,0.0,0.0,0.0,0.0,,
 20180805,Ituri,Mandima,2.0,0.0,0.0,0.0,2.0,0.0,,
+20180805,Ituri,Nyankunde,,,,,,,,
 20180805,Ituri,Tchomia,,,,,,,,
 20180805,Kinshasa,Kinshasa,,,,,,,,
 20180805,North-Kivu,Alimbongo,,,,,,,,
@@ -228,6 +237,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180806,Ituri,Komanda,,,,,,,,
 20180806,Ituri,Mambasa,,,,,,,,
 20180806,Ituri,Mandima,2.0,0.0,0.0,0.0,2.0,0.0,,
+20180806,Ituri,Nyankunde,,,,,,,,
 20180806,Ituri,Tchomia,,,,,,,,
 20180806,Kinshasa,Kinshasa,,,,,,,,
 20180806,North-Kivu,Alimbongo,,,,,,,,
@@ -253,6 +263,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180807,Ituri,Komanda,,,,,,,,
 20180807,Ituri,Mambasa,,,,,,,,
 20180807,Ituri,Mandima,2.0,0.0,0.0,0.0,2.0,0.0,,
+20180807,Ituri,Nyankunde,,,,,,,,
 20180807,Ituri,Tchomia,,,,,,,,
 20180807,Kinshasa,Kinshasa,,,,,,,,
 20180807,North-Kivu,Alimbongo,,,,,,,,
@@ -278,6 +289,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180808,Ituri,Komanda,,,,,,,,
 20180808,Ituri,Mambasa,,,,,,,,
 20180808,Ituri,Mandima,2.0,0.0,0.0,0.0,2.0,0.0,,
+20180808,Ituri,Nyankunde,,,,,,,,
 20180808,Ituri,Tchomia,,,,,,,,
 20180808,Kinshasa,Kinshasa,,,,,,,,
 20180808,North-Kivu,Alimbongo,,,,,,,,
@@ -303,6 +315,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180809,Ituri,Komanda,,,,,,,,
 20180809,Ituri,Mambasa,,,,,,,,
 20180809,Ituri,Mandima,2.0,0.0,0.0,0.0,2.0,0.0,,
+20180809,Ituri,Nyankunde,,,,,,,,
 20180809,Ituri,Tchomia,,,,,,,,
 20180809,Kinshasa,Kinshasa,,,,,,,,
 20180809,North-Kivu,Alimbongo,,,,,,,,
@@ -328,6 +341,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180810,Ituri,Komanda,,,,,,,,
 20180810,Ituri,Mambasa,,,,,,,,
 20180810,Ituri,Mandima,2.0,0.0,0.0,0.0,2.0,0.0,,
+20180810,Ituri,Nyankunde,,,,,,,,
 20180810,Ituri,Tchomia,,,,,,,,
 20180810,Kinshasa,Kinshasa,,,,,,,,
 20180810,North-Kivu,Alimbongo,,,,,,,,
@@ -353,6 +367,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180811,Ituri,Komanda,,,,,,,,
 20180811,Ituri,Mambasa,,,,,,,,
 20180811,Ituri,Mandima,2.0,0.0,0.0,0.0,2.0,0.0,,
+20180811,Ituri,Nyankunde,,,,,,,,
 20180811,Ituri,Tchomia,,,,,,,,
 20180811,Kinshasa,Kinshasa,,,,,,,,
 20180811,North-Kivu,Alimbongo,,,,,,,,
@@ -378,6 +393,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180812,Ituri,Komanda,,,,,,,,
 20180812,Ituri,Mambasa,,,,,,,,
 20180812,Ituri,Mandima,2.0,1.0,0.0,0.0,3.0,1.0,,
+20180812,Ituri,Nyankunde,,,,,,,,
 20180812,Ituri,Tchomia,,,,,,,,
 20180812,Kinshasa,Kinshasa,,,,,,,,
 20180812,North-Kivu,Alimbongo,,,,,,,,
@@ -403,6 +419,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180813,Ituri,Komanda,,,,,,,,
 20180813,Ituri,Mambasa,,,,,,,,
 20180813,Ituri,Mandima,2.0,7.0,2.0,2.0,4.0,2.0,,
+20180813,Ituri,Nyankunde,,,,,,,,
 20180813,Ituri,Tchomia,,,,,,,,
 20180813,Kinshasa,Kinshasa,,,,,,,,
 20180813,North-Kivu,Alimbongo,,,,,,,,
@@ -428,6 +445,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180814,Ituri,Komanda,,,,,,,,
 20180814,Ituri,Mambasa,,,,,,,,
 20180814,Ituri,Mandima,2.0,7.0,1.0,3.0,4.0,2.0,,
+20180814,Ituri,Nyankunde,,,,,,,,
 20180814,Ituri,Tchomia,,,,,,,,
 20180814,Kinshasa,Kinshasa,,,,,,,,
 20180814,North-Kivu,Alimbongo,,,,,,,,
@@ -453,6 +471,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180815,Ituri,Komanda,,,,,,,,
 20180815,Ituri,Mambasa,,,,,,,,
 20180815,Ituri,Mandima,2.0,7.0,3.0,6.0,3.0,1.0,,40.0
+20180815,Ituri,Nyankunde,,,,,,,,
 20180815,Ituri,Tchomia,,,,,,,,
 20180815,Kinshasa,Kinshasa,,,,,,,,
 20180815,North-Kivu,Alimbongo,,,,,,,,
@@ -478,6 +497,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180816,Ituri,Komanda,,,,,,,,
 20180816,Ituri,Mambasa,,,,,,,,
 20180816,Ituri,Mandima,2.0,7.0,0.0,6.0,3.0,1.0,,
+20180816,Ituri,Nyankunde,,,,,,,,
 20180816,Ituri,Tchomia,,,,,,,,
 20180816,Kinshasa,Kinshasa,,,,,,,,
 20180816,North-Kivu,Alimbongo,,,,,,,,
@@ -503,6 +523,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180817,Ituri,Komanda,,,,,,,,
 20180817,Ituri,Mambasa,,,,,,,,
 20180817,Ituri,Mandima,2.0,7.0,0.0,6.0,3.0,1.0,,
+20180817,Ituri,Nyankunde,,,,,,,,
 20180817,Ituri,Tchomia,,,,,,,,
 20180817,Kinshasa,Kinshasa,,,,,,,,
 20180817,North-Kivu,Alimbongo,,,,,,,,
@@ -528,6 +549,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180818,Ituri,Komanda,,,,,,,,
 20180818,Ituri,Mambasa,,,,,,,,
 20180818,Ituri,Mandima,2.0,7.0,0.0,0.0,3.0,1.0,,150.0
+20180818,Ituri,Nyankunde,,,,,,,,
 20180818,Ituri,Tchomia,,,,,,,,
 20180818,Kinshasa,Kinshasa,,,,,,,,
 20180818,North-Kivu,Alimbongo,,,,,,,,
@@ -553,6 +575,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180819,Ituri,Komanda,,,,,,,,
 20180819,Ituri,Mambasa,,,,,,,,
 20180819,Ituri,Mandima,2.0,7.0,0.0,0.0,3.0,1.0,,209.0
+20180819,Ituri,Nyankunde,,,,,,,,
 20180819,Ituri,Tchomia,,,,,,,,
 20180819,Kinshasa,Kinshasa,,,,,,,,
 20180819,North-Kivu,Alimbongo,,,,,,,,
@@ -578,6 +601,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180820,Ituri,Komanda,,,,,,,,
 20180820,Ituri,Mambasa,,,,,,,,
 20180820,Ituri,Mandima,2.0,7.0,0.0,0.0,3.0,1.0,,319.0
+20180820,Ituri,Nyankunde,,,,,,,,
 20180820,Ituri,Tchomia,,,,,,,,
 20180820,Kinshasa,Kinshasa,,,,,,,,
 20180820,North-Kivu,Alimbongo,,,,,,,,
@@ -603,6 +627,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180821,Ituri,Komanda,,,,,,,,
 20180821,Ituri,Mambasa,,,,,,,,
 20180821,Ituri,Mandima,2.0,7.0,0.0,0.0,3.0,1.0,,449.0
+20180821,Ituri,Nyankunde,,,,,,,,
 20180821,Ituri,Tchomia,,,,,,,,
 20180821,Kinshasa,Kinshasa,,,,,,,,
 20180821,North-Kivu,Alimbongo,,,,,,,,
@@ -628,6 +653,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180822,Ituri,Komanda,,,,,,,,
 20180822,Ituri,Mambasa,,,,,,,,
 20180822,Ituri,Mandima,2.0,7.0,0.0,0.0,3.0,1.0,,626.0
+20180822,Ituri,Nyankunde,,,,,,,,
 20180822,Ituri,Tchomia,,,,,,,,
 20180822,Kinshasa,Kinshasa,,,,,,,,
 20180822,North-Kivu,Alimbongo,,,,,,,,
@@ -653,6 +679,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180823,Ituri,Komanda,,,,,,,,
 20180823,Ituri,Mambasa,,,,,,,,
 20180823,Ituri,Mandima,2.0,7.0,2.0,2.0,3.0,1.0,,746.0
+20180823,Ituri,Nyankunde,,,,,,,,
 20180823,Ituri,Tchomia,,,,,,,,
 20180823,Kinshasa,Kinshasa,,,,,,,,
 20180823,North-Kivu,Alimbongo,,,,,,,,
@@ -678,6 +705,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180824,Ituri,Komanda,,,,,,,,
 20180824,Ituri,Mambasa,,,,,,,,
 20180824,Ituri,Mandima,2.0,7.0,0.0,0.0,3.0,1.0,,887.0
+20180824,Ituri,Nyankunde,,,,,,,,
 20180824,Ituri,Tchomia,,,,,,,,
 20180824,Kinshasa,Kinshasa,,,,,,,,
 20180824,North-Kivu,Alimbongo,,,,,,,,
@@ -703,6 +731,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180825,Ituri,Komanda,,,,,,,,
 20180825,Ituri,Mambasa,,,,,,,,
 20180825,Ituri,Mandima,2.0,7.0,0.0,0.0,3.0,1.0,,887.0
+20180825,Ituri,Nyankunde,,,,,,,,
 20180825,Ituri,Tchomia,,,,,,,,
 20180825,Kinshasa,Kinshasa,,,,,,,,
 20180825,North-Kivu,Alimbongo,,,,,,,,
@@ -728,6 +757,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180826,Ituri,Komanda,,,,,,,,
 20180826,Ituri,Mambasa,,,,,,,,
 20180826,Ituri,Mandima,2.0,7.0,1.0,1.0,3.0,1.0,,1017.0
+20180826,Ituri,Nyankunde,,,,,,,,
 20180826,Ituri,Tchomia,,,,,,,,
 20180826,Kinshasa,Kinshasa,,,,,,,,
 20180826,North-Kivu,Alimbongo,,,,,,,,
@@ -753,6 +783,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180827,Ituri,Komanda,,,,,,,,
 20180827,Ituri,Mambasa,,,,,,,,
 20180827,Ituri,Mandima,2.0,8.0,2.0,3.0,3.0,1.0,,1017.0
+20180827,Ituri,Nyankunde,,,,,,,,
 20180827,Ituri,Tchomia,,,,,,,,
 20180827,Kinshasa,Kinshasa,,,,,,,,
 20180827,North-Kivu,Alimbongo,,,,,,,,
@@ -778,6 +809,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180828,Ituri,Komanda,,,,,,,,
 20180828,Ituri,Mambasa,,,,,,,,
 20180828,Ituri,Mandima,2.0,8.0,0.0,0.0,3.0,1.0,,1017.0
+20180828,Ituri,Nyankunde,,,,,,,,
 20180828,Ituri,Tchomia,,,,,,,,
 20180828,Kinshasa,Kinshasa,,,,,,,,
 20180828,North-Kivu,Alimbongo,,,,,,,,
@@ -803,6 +835,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180829,Ituri,Komanda,,,,,,,,
 20180829,Ituri,Mambasa,,,,,,,,
 20180829,Ituri,Mandima,2.0,8.0,0.0,0.0,3.0,1.0,,1017.0
+20180829,Ituri,Nyankunde,,,,,,,,
 20180829,Ituri,Tchomia,,,,,,,,
 20180829,Kinshasa,Kinshasa,,,,,,,,14.0
 20180829,North-Kivu,Alimbongo,,,,,,,,
@@ -828,6 +861,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180830,Ituri,Komanda,,,,,,,,
 20180830,Ituri,Mambasa,,,,,,,,
 20180830,Ituri,Mandima,2.0,8.0,0.0,0.0,3.0,1.0,,1017.0
+20180830,Ituri,Nyankunde,,,,,,,,
 20180830,Ituri,Tchomia,,,,,,,,
 20180830,Kinshasa,Kinshasa,,,,,,,,19.0
 20180830,North-Kivu,Alimbongo,,,,,,,,
@@ -853,6 +887,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180831,Ituri,Komanda,,,,,,,,
 20180831,Ituri,Mambasa,,,,,,,,
 20180831,Ituri,Mandima,2.0,8.0,0.0,0.0,3.0,1.0,,1037.0
+20180831,Ituri,Nyankunde,,,,,,,,
 20180831,Ituri,Tchomia,,,,,,,,
 20180831,Kinshasa,Kinshasa,,,,,,,,19.0
 20180831,North-Kivu,Alimbongo,,,,,,,,
@@ -878,6 +913,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180901,Ituri,Komanda,,,,,,,,
 20180901,Ituri,Mambasa,,,,,,,,
 20180901,Ituri,Mandima,2.0,8.0,0.0,0.0,3.0,1.0,,1037.0
+20180901,Ituri,Nyankunde,,,,,,,,
 20180901,Ituri,Tchomia,,,,,,,,
 20180901,Kinshasa,Kinshasa,,,,,,,,19.0
 20180901,North-Kivu,Alimbongo,,,,,,,,
@@ -903,6 +939,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180902,Ituri,Komanda,,,,,,,,
 20180902,Ituri,Mambasa,,,,,,,,
 20180902,Ituri,Mandima,2.0,8.0,0.0,0.0,3.0,1.0,,1067.0
+20180902,Ituri,Nyankunde,,,,,,,,
 20180902,Ituri,Tchomia,,,,,,,,
 20180902,Kinshasa,Kinshasa,,,,,,,,19.0
 20180902,North-Kivu,Alimbongo,,,,,,,,
@@ -928,6 +965,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180903,Ituri,Komanda,,,,,,,,
 20180903,Ituri,Mambasa,,,,,,,,
 20180903,Ituri,Mandima,2.0,8.0,0.0,0.0,3.0,1.0,,1067.0
+20180903,Ituri,Nyankunde,,,,,,,,
 20180903,Ituri,Tchomia,,,,,,,,
 20180903,Kinshasa,Kinshasa,,,,,,,,19.0
 20180903,North-Kivu,Alimbongo,,,,,,,,
@@ -953,6 +991,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180904,Ituri,Komanda,,,,,,,,
 20180904,Ituri,Mambasa,,,,,,,,
 20180904,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,,1067.0
+20180904,Ituri,Nyankunde,,,,,,,,
 20180904,Ituri,Tchomia,,,,,,,,
 20180904,Kinshasa,Kinshasa,,,,,,,,19.0
 20180904,North-Kivu,Alimbongo,,,,,,,,
@@ -978,6 +1017,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180905,Ituri,Komanda,,,,,,,,
 20180905,Ituri,Mambasa,,,,,,,,
 20180905,Ituri,Mandima,2.0,9.0,1.0,1.0,3.0,1.0,,1067.0
+20180905,Ituri,Nyankunde,,,,,,,,
 20180905,Ituri,Tchomia,,,,,,,,
 20180905,Kinshasa,Kinshasa,,,,,,,,19.0
 20180905,North-Kivu,Alimbongo,,,,,,,,
@@ -1003,6 +1043,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180906,Ituri,Komanda,,,,,,,,
 20180906,Ituri,Mambasa,,,,,,,,
 20180906,Ituri,Mandima,2.0,9.0,1.0,1.0,3.0,1.0,3.0,1067.0
+20180906,Ituri,Nyankunde,,,,,,,,
 20180906,Ituri,Tchomia,,,,,,,,
 20180906,Kinshasa,Kinshasa,,,,,,,,19.0
 20180906,North-Kivu,Alimbongo,,,,,,,,
@@ -1028,6 +1069,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180907,Ituri,Komanda,,,,,,,,
 20180907,Ituri,Mambasa,,,,,,,,
 20180907,Ituri,Mandima,2.0,9.0,2.0,2.0,3.0,1.0,3.0,1117.0
+20180907,Ituri,Nyankunde,,,,,,,,
 20180907,Ituri,Tchomia,,,,,,,,
 20180907,Kinshasa,Kinshasa,,,,,,,,19.0
 20180907,North-Kivu,Alimbongo,,,,,,,,
@@ -1053,6 +1095,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180908,Ituri,Komanda,,,,,,,,
 20180908,Ituri,Mambasa,,,,,,,,
 20180908,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1197.0
+20180908,Ituri,Nyankunde,,,,,,,,
 20180908,Ituri,Tchomia,,,,,,,,
 20180908,Kinshasa,Kinshasa,,,,,,,,19.0
 20180908,North-Kivu,Alimbongo,,,,,,,,
@@ -1078,6 +1121,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180909,Ituri,Komanda,,,,,,,,
 20180909,Ituri,Mambasa,,,,,,,,
 20180909,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1257.0
+20180909,Ituri,Nyankunde,,,,,,,,
 20180909,Ituri,Tchomia,,,,,,,,
 20180909,Kinshasa,Kinshasa,,,,,,,,38.0
 20180909,North-Kivu,Alimbongo,,,,,,,,
@@ -1103,6 +1147,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180910,Ituri,Komanda,,,,,,,,
 20180910,Ituri,Mambasa,,,,,,,,
 20180910,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1297.0
+20180910,Ituri,Nyankunde,,,,,,,,
 20180910,Ituri,Tchomia,,,,,,,,
 20180910,Kinshasa,Kinshasa,,,,,,,,56.0
 20180910,North-Kivu,Alimbongo,,,,,,,,
@@ -1128,6 +1173,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180911,Ituri,Komanda,,,,,,,,
 20180911,Ituri,Mambasa,,,,,,,,
 20180911,Ituri,Mandima,2.0,9.0,1.0,1.0,3.0,1.0,3.0,1307.0
+20180911,Ituri,Nyankunde,,,,,,,,
 20180911,Ituri,Tchomia,,,,,,,,
 20180911,Kinshasa,Kinshasa,,,,,,,,56.0
 20180911,North-Kivu,Alimbongo,,,,,,,,
@@ -1153,6 +1199,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180912,Ituri,Komanda,,,,,,,,
 20180912,Ituri,Mambasa,,,,,,,,
 20180912,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1328.0
+20180912,Ituri,Nyankunde,,,,,,,,
 20180912,Ituri,Tchomia,,,,,,,,
 20180912,Kinshasa,Kinshasa,,,,,,,,65.0
 20180912,North-Kivu,Alimbongo,,,,,,,,
@@ -1178,6 +1225,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180913,Ituri,Komanda,,,,,,,,
 20180913,Ituri,Mambasa,,,,,,,,
 20180913,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1365.0
+20180913,Ituri,Nyankunde,,,,,,,,
 20180913,Ituri,Tchomia,,,,,,,,
 20180913,Kinshasa,Kinshasa,,,,,,,,65.0
 20180913,North-Kivu,Alimbongo,,,,,,,,
@@ -1203,6 +1251,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180914,Ituri,Komanda,,,,,,,,
 20180914,Ituri,Mambasa,,,,,,,,
 20180914,Ituri,Mandima,2.0,9.0,1.0,1.0,3.0,1.0,3.0,
+20180914,Ituri,Nyankunde,,,,,,,,
 20180914,Ituri,Tchomia,,,,,,,,
 20180914,Kinshasa,Kinshasa,,,,,,,,
 20180914,North-Kivu,Alimbongo,,,,,,,,
@@ -1228,6 +1277,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180915,Ituri,Komanda,,,,,,,,
 20180915,Ituri,Mambasa,,,,,,,,
 20180915,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,
+20180915,Ituri,Nyankunde,,,,,,,,
 20180915,Ituri,Tchomia,,,,,,,,
 20180915,Kinshasa,Kinshasa,,,,,,,,
 20180915,North-Kivu,Alimbongo,,,,,,,,
@@ -1253,6 +1303,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180916,Ituri,Komanda,0.0,0.0,1.0,1.0,0.0,0.0,0.0,
 20180916,Ituri,Mambasa,,,,,,,,
 20180916,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1442.0
+20180916,Ituri,Nyankunde,,,,,,,,
 20180916,Ituri,Tchomia,,,,,,,,
 20180916,Kinshasa,Kinshasa,,,,,,,,65.0
 20180916,North-Kivu,Alimbongo,,,,,,,,
@@ -1278,6 +1329,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180917,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
 20180917,Ituri,Mambasa,,,,,,,,
 20180917,Ituri,Mandima,2.0,9.0,2.0,2.0,3.0,1.0,3.0,
+20180917,Ituri,Nyankunde,,,,,,,,
 20180917,Ituri,Tchomia,,,,,,,,
 20180917,Kinshasa,Kinshasa,,,,,,,,
 20180917,North-Kivu,Alimbongo,,,,,,,,
@@ -1303,6 +1355,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180918,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,51.0
 20180918,Ituri,Mambasa,,,,,,,,
 20180918,Ituri,Mandima,2.0,9.0,1.0,1.0,3.0,1.0,3.0,1542.0
+20180918,Ituri,Nyankunde,,,,,,,,
 20180918,Ituri,Tchomia,,,,,,,,
 20180918,Kinshasa,Kinshasa,,,,,,,,65.0
 20180918,North-Kivu,Alimbongo,,,,,,,,
@@ -1328,6 +1381,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180919,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,94.0
 20180919,Ituri,Mambasa,,,,,,,,
 20180919,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1582.0
+20180919,Ituri,Nyankunde,,,,,,,,
 20180919,Ituri,Tchomia,,,,,,,,
 20180919,Kinshasa,Kinshasa,,,,,,,,65.0
 20180919,North-Kivu,Alimbongo,,,,,,,,
@@ -1353,6 +1407,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180920,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
 20180920,Ituri,Mambasa,,,,,,,,
 20180920,Ituri,Mandima,2.0,9.0,2.0,2.0,3.0,1.0,3.0,1632.0
+20180920,Ituri,Nyankunde,,,,,,,,
 20180920,Ituri,Tchomia,0.0,1.0,0.0,0.0,1.0,1.0,0.0,
 20180920,Kinshasa,Kinshasa,,,,,,,,65.0
 20180920,North-Kivu,Alimbongo,,,,,,,,
@@ -1378,6 +1433,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180921,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
 20180921,Ituri,Mambasa,,,,,,,,
 20180921,Ituri,Mandima,2.0,9.0,2.0,2.0,3.0,1.0,3.0,1632.0
+20180921,Ituri,Nyankunde,,,,,,,,
 20180921,Ituri,Tchomia,0.0,1.0,0.0,0.0,1.0,1.0,0.0,
 20180921,Kinshasa,Kinshasa,,,,,,,,65.0
 20180921,North-Kivu,Alimbongo,,,,,,,,
@@ -1403,6 +1459,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180922,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
 20180922,Ituri,Mambasa,,,,,,,,
 20180922,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1632.0
+20180922,Ituri,Nyankunde,,,,,,,,
 20180922,Ituri,Tchomia,0.0,1.0,1.0,1.0,1.0,1.0,0.0,10.0
 20180922,Kinshasa,Kinshasa,,,,,,,,65.0
 20180922,North-Kivu,Alimbongo,,,,,,,,
@@ -1428,6 +1485,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180923,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
 20180923,Ituri,Mambasa,,,,,,,,
 20180923,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1632.0
+20180923,Ituri,Nyankunde,,,,,,,,
 20180923,Ituri,Tchomia,0.0,2.0,0.0,0.0,1.0,1.0,0.0,27.0
 20180923,Kinshasa,Kinshasa,,,,,,,,65.0
 20180923,North-Kivu,Alimbongo,,,,,,,,
@@ -1453,6 +1511,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180924,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
 20180924,Ituri,Mambasa,,,,,,,,
 20180924,Ituri,Mandima,2.0,9.0,2.0,2.0,3.0,1.0,3.0,1632.0
+20180924,Ituri,Nyankunde,,,,,,,,
 20180924,Ituri,Tchomia,0.0,2.0,1.0,1.0,1.0,1.0,0.0,60.0
 20180924,Kinshasa,Kinshasa,,,,,,,,65.0
 20180924,North-Kivu,Alimbongo,,,,,,,,
@@ -1478,6 +1537,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180925,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
 20180925,Ituri,Mambasa,,,,,,,,
 20180925,Ituri,Mandima,2.0,9.0,2.0,2.0,3.0,1.0,3.0,1632.0
+20180925,Ituri,Nyankunde,,,,,,,,
 20180925,Ituri,Tchomia,0.0,2.0,3.0,3.0,1.0,1.0,0.0,108.0
 20180925,Kinshasa,Kinshasa,,,,,,,,65.0
 20180925,North-Kivu,Alimbongo,,,,,,,,
@@ -1503,6 +1563,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180926,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
 20180926,Ituri,Mambasa,,,,,,,,
 20180926,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1632.0
+20180926,Ituri,Nyankunde,,,,,,,,
 20180926,Ituri,Tchomia,0.0,2.0,3.0,3.0,1.0,1.0,0.0,156.0
 20180926,Kinshasa,Kinshasa,,,,,,,,65.0
 20180926,North-Kivu,Alimbongo,,,,,,,,
@@ -1528,6 +1589,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180927,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
 20180927,Ituri,Mambasa,,,,,,,,
 20180927,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1632.0
+20180927,Ituri,Nyankunde,,,,,,,,
 20180927,Ituri,Tchomia,0.0,2.0,4.0,4.0,1.0,1.0,0.0,177.0
 20180927,Kinshasa,Kinshasa,,,,,,,,65.0
 20180927,North-Kivu,Alimbongo,,,,,,,,
@@ -1553,6 +1615,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180928,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
 20180928,Ituri,Mambasa,,,,,,,,
 20180928,Ituri,Mandima,2.0,9.0,1.0,1.0,3.0,1.0,3.0,1632.0
+20180928,Ituri,Nyankunde,,,,,,,,
 20180928,Ituri,Tchomia,0.0,2.0,7.0,7.0,1.0,1.0,0.0,224.0
 20180928,Kinshasa,Kinshasa,,,,,,,,65.0
 20180928,North-Kivu,Alimbongo,,,,,,,,
@@ -1578,6 +1641,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180929,Ituri,Komanda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
 20180929,Ituri,Mambasa,,,,,,,,
 20180929,Ituri,Mandima,2.0,9.0,2.0,2.0,3.0,1.0,3.0,1632.0
+20180929,Ituri,Nyankunde,,,,,,,,
 20180929,Ituri,Tchomia,0.0,2.0,3.0,3.0,1.0,1.0,0.0,230.0
 20180929,Kinshasa,Kinshasa,,,,,,,,65.0
 20180929,North-Kivu,Alimbongo,,,,,,,,
@@ -1603,6 +1667,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20180930,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,164.0
 20180930,Ituri,Mambasa,,,,,,,,
 20180930,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1632.0
+20180930,Ituri,Nyankunde,,,,,,,,
 20180930,Ituri,Tchomia,0.0,2.0,1.0,1.0,1.0,1.0,0.0,260.0
 20180930,Kinshasa,Kinshasa,,,,,,,,65.0
 20180930,North-Kivu,Alimbongo,,,,,,,,
@@ -1628,6 +1693,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181001,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,164.0
 20181001,Ituri,Mambasa,,,,,,,,
 20181001,Ituri,Mandima,2.0,9.0,1.0,1.0,3.0,1.0,3.0,1632.0
+20181001,Ituri,Nyankunde,,,,,,,,
 20181001,Ituri,Tchomia,0.0,2.0,0.0,0.0,1.0,1.0,0.0,301.0
 20181001,Kinshasa,Kinshasa,,,,,,,,65.0
 20181001,North-Kivu,Alimbongo,,,,,,,,
@@ -1653,6 +1719,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181002,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,192.0
 20181002,Ituri,Mambasa,,,,,,,,
 20181002,Ituri,Mandima,2.0,9.0,1.0,1.0,3.0,1.0,3.0,1632.0
+20181002,Ituri,Nyankunde,,,,,,,,
 20181002,Ituri,Tchomia,0.0,2.0,1.0,1.0,1.0,1.0,0.0,307.0
 20181002,Kinshasa,Kinshasa,,,,,,,,65.0
 20181002,North-Kivu,Alimbongo,,,,,,,,
@@ -1678,6 +1745,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181003,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,224.0
 20181003,Ituri,Mambasa,,,,,,,,
 20181003,Ituri,Mandima,2.0,9.0,1.0,1.0,3.0,1.0,3.0,1632.0
+20181003,Ituri,Nyankunde,,,,,,,,
 20181003,Ituri,Tchomia,0.0,2.0,4.0,4.0,1.0,1.0,0.0,355.0
 20181003,Kinshasa,Kinshasa,,,,,,,,
 20181003,North-Kivu,Alimbongo,,,,,,,,
@@ -1703,6 +1771,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181004,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181004,Ituri,Mambasa,,,,,,,,
 20181004,Ituri,Mandima,2.0,9.0,2.0,2.0,3.0,1.0,3.0,1632.0
+20181004,Ituri,Nyankunde,,,,,,,,
 20181004,Ituri,Tchomia,0.0,2.0,0.0,0.0,1.0,1.0,0.0,355.0
 20181004,Kinshasa,Kinshasa,,,,,,,,
 20181004,North-Kivu,Alimbongo,,,,,,,,
@@ -1728,6 +1797,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181005,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181005,Ituri,Mambasa,,,,,,,,
 20181005,Ituri,Mandima,2.0,9.0,1.0,1.0,3.0,1.0,3.0,1653.0
+20181005,Ituri,Nyankunde,,,,,,,,
 20181005,Ituri,Tchomia,0.0,2.0,0.0,0.0,1.0,1.0,0.0,355.0
 20181005,Kinshasa,Kinshasa,,,,,,,,
 20181005,North-Kivu,Alimbongo,,,,,,,,
@@ -1753,6 +1823,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181006,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181006,Ituri,Mambasa,,,,,,,,
 20181006,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1663.0
+20181006,Ituri,Nyankunde,,,,,,,,
 20181006,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,0.0,355.0
 20181006,Kinshasa,Kinshasa,,,,,,,,
 20181006,North-Kivu,Alimbongo,,,,,,,,
@@ -1778,6 +1849,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181007,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181007,Ituri,Mambasa,,,,,,,,
 20181007,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1663.0
+20181007,Ituri,Nyankunde,,,,,,,,
 20181007,Ituri,Tchomia,0.0,2.0,2.0,2.0,2.0,2.0,0.0,355.0
 20181007,Kinshasa,Kinshasa,,,,,,,,
 20181007,North-Kivu,Alimbongo,,,,,,,,
@@ -1803,6 +1875,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181008,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181008,Ituri,Mambasa,,,,,,,,
 20181008,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1663.0
+20181008,Ituri,Nyankunde,,,,,,,,
 20181008,Ituri,Tchomia,0.0,2.0,2.0,2.0,2.0,2.0,0.0,355.0
 20181008,Kinshasa,Kinshasa,,,,,,,,
 20181008,North-Kivu,Alimbongo,,,,,,,,
@@ -1828,6 +1901,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181009,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181009,Ituri,Mambasa,,,,,,,,
 20181009,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1663.0
+20181009,Ituri,Nyankunde,,,,,,,,
 20181009,Ituri,Tchomia,0.0,2.0,3.0,3.0,2.0,2.0,0.0,355.0
 20181009,Kinshasa,Kinshasa,,,,,,,,
 20181009,North-Kivu,Alimbongo,,,,,,,,
@@ -1853,6 +1927,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181010,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181010,Ituri,Mambasa,,,,,,,,
 20181010,Ituri,Mandima,2.0,9.0,4.0,4.0,3.0,1.0,3.0,1663.0
+20181010,Ituri,Nyankunde,,,,,,,,
 20181010,Ituri,Tchomia,0.0,2.0,1.0,1.0,2.0,2.0,0.0,355.0
 20181010,Kinshasa,Kinshasa,,,,,,,,
 20181010,North-Kivu,Alimbongo,,,,,,,,
@@ -1878,6 +1953,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181011,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181011,Ituri,Mambasa,,,,,,,,
 20181011,Ituri,Mandima,2.0,9.0,2.0,2.0,3.0,1.0,3.0,1663.0
+20181011,Ituri,Nyankunde,,,,,,,,
 20181011,Ituri,Tchomia,0.0,2.0,1.0,1.0,2.0,2.0,0.0,355.0
 20181011,Kinshasa,Kinshasa,,,,,,,,
 20181011,North-Kivu,Alimbongo,,,,,,,,
@@ -1903,6 +1979,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181012,Ituri,Komanda,0.0,1.0,,,0.0,0.0,0.0,240.0
 20181012,Ituri,Mambasa,,,,,,,,
 20181012,Ituri,Mandima,2.0,9.0,,,3.0,1.0,3.0,1663.0
+20181012,Ituri,Nyankunde,,,,,,,,
 20181012,Ituri,Tchomia,0.0,2.0,,,2.0,2.0,0.0,355.0
 20181012,Kinshasa,Kinshasa,,,,,,,,
 20181012,North-Kivu,Alimbongo,,,,,,,,
@@ -1923,11 +2000,12 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181012,North-Kivu,Oicha,1.0,2.0,,,1.0,0.0,2.0,121.0
 20181012,North-Kivu,Vuhovi,,,,,,,,
 20181012,Tshopo,Kisangani,,,,,,,,
-20181012,all,all,35.0,172.0,0.0,0.0,130.0,95.0,54.0,16518.0
+20181012,all,all,35.0,172.0,,,130.0,95.0,54.0,16518.0
 20181013,Ituri,Bunia,,,,,,,,434.0
 20181013,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181013,Ituri,Mambasa,,,,,,,,
 20181013,Ituri,Mandima,2.0,9.0,4.0,4.0,3.0,1.0,3.0,1663.0
+20181013,Ituri,Nyankunde,,,,,,,,
 20181013,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,0.0,355.0
 20181013,Kinshasa,Kinshasa,,,,,,,,
 20181013,North-Kivu,Alimbongo,,,,,,,,
@@ -1953,6 +2031,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181014,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181014,Ituri,Mambasa,,,,,,,,
 20181014,Ituri,Mandima,2.0,9.0,1.0,1.0,3.0,1.0,3.0,1663.0
+20181014,Ituri,Nyankunde,,,,,,,,
 20181014,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,0.0,355.0
 20181014,Kinshasa,Kinshasa,,,,,,,,
 20181014,North-Kivu,Alimbongo,,,,,,,,
@@ -1978,6 +2057,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181015,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181015,Ituri,Mambasa,,,,,,,,
 20181015,Ituri,Mandima,2.0,9.0,1.0,1.0,3.0,1.0,3.0,1663.0
+20181015,Ituri,Nyankunde,,,,,,,,
 20181015,Ituri,Tchomia,0.0,2.0,1.0,1.0,2.0,2.0,0.0,355.0
 20181015,Kinshasa,Kinshasa,,,,,,,,
 20181015,North-Kivu,Alimbongo,,,,,,,,
@@ -2003,6 +2083,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181016,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181016,Ituri,Mambasa,,,,,,,,
 20181016,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1663.0
+20181016,Ituri,Nyankunde,,,,,,,,
 20181016,Ituri,Tchomia,0.0,2.0,1.0,1.0,2.0,2.0,0.0,355.0
 20181016,Kinshasa,Kinshasa,,,,,,,,
 20181016,North-Kivu,Alimbongo,,,,,,,,
@@ -2028,6 +2109,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181017,Ituri,Komanda,0.0,1.0,1.0,1.0,0.0,0.0,0.0,240.0
 20181017,Ituri,Mambasa,,,,,,,,
 20181017,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1663.0
+20181017,Ituri,Nyankunde,,,,,,,,
 20181017,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,0.0,355.0
 20181017,Kinshasa,Kinshasa,,,,,,,,
 20181017,North-Kivu,Alimbongo,,,,,,,,
@@ -2053,6 +2135,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181018,Ituri,Komanda,0.0,1.0,1.0,1.0,0.0,0.0,0.0,240.0
 20181018,Ituri,Mambasa,,,,,,,,
 20181018,Ituri,Mandima,2.0,9.0,3.0,3.0,3.0,1.0,3.0,1663.0
+20181018,Ituri,Nyankunde,,,,,,,,
 20181018,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,0.0,355.0
 20181018,Kinshasa,Kinshasa,,,,,,,,
 20181018,North-Kivu,Alimbongo,,,,,,,,
@@ -2078,6 +2161,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181019,Ituri,Komanda,0.0,1.0,2.0,2.0,0.0,0.0,0.0,240.0
 20181019,Ituri,Mambasa,,,,,,,,
 20181019,Ituri,Mandima,2.0,9.0,1.0,1.0,3.0,1.0,3.0,1663.0
+20181019,Ituri,Nyankunde,,,,,,,,
 20181019,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,0.0,355.0
 20181019,Kinshasa,Kinshasa,,,,,,,,
 20181019,North-Kivu,Alimbongo,,,,,,,,
@@ -2103,6 +2187,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181020,Ituri,Komanda,0.0,1.0,2.0,2.0,0.0,0.0,0.0,240.0
 20181020,Ituri,Mambasa,,,,,,,,
 20181020,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1663.0
+20181020,Ituri,Nyankunde,,,,,,,,
 20181020,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,0.0,355.0
 20181020,Kinshasa,Kinshasa,,,,,,,,
 20181020,North-Kivu,Alimbongo,,,,,,,,
@@ -2128,6 +2213,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181021,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181021,Ituri,Mambasa,,,,,,,,
 20181021,Ituri,Mandima,2.0,9.0,3.0,3.0,3.0,1.0,3.0,1663.0
+20181021,Ituri,Nyankunde,,,,,,,,
 20181021,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,0.0,355.0
 20181021,Kinshasa,Kinshasa,,,,,,,,
 20181021,North-Kivu,Alimbongo,,,,,,,,
@@ -2153,6 +2239,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181022,Ituri,Komanda,0.0,1.0,1.0,1.0,0.0,0.0,0.0,240.0
 20181022,Ituri,Mambasa,,,,,,,,
 20181022,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1663.0
+20181022,Ituri,Nyankunde,,,,,,,,
 20181022,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,0.0,355.0
 20181022,Kinshasa,Kinshasa,,,,,,,,
 20181022,North-Kivu,Alimbongo,,,,,,,,
@@ -2178,6 +2265,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181023,Ituri,Komanda,0.0,1.0,2.0,2.0,0.0,0.0,0.0,240.0
 20181023,Ituri,Mambasa,,,,,,,,
 20181023,Ituri,Mandima,2.0,9.0,1.0,1.0,3.0,1.0,3.0,1663.0
+20181023,Ituri,Nyankunde,,,,,,,,
 20181023,Ituri,Tchomia,0.0,2.0,1.0,1.0,2.0,2.0,0.0,355.0
 20181023,Kinshasa,Kinshasa,,,,,,,,
 20181023,North-Kivu,Alimbongo,,,,,,,,
@@ -2203,6 +2291,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181024,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181024,Ituri,Mambasa,,,,,,,,
 20181024,Ituri,Mandima,2.0,9.0,4.0,4.0,3.0,1.0,3.0,1663.0
+20181024,Ituri,Nyankunde,,,,,,,,
 20181024,Ituri,Tchomia,0.0,2.0,1.0,1.0,2.0,2.0,0.0,355.0
 20181024,Kinshasa,Kinshasa,,,,,,,,
 20181024,North-Kivu,Alimbongo,,,,,,,,
@@ -2228,6 +2317,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181025,Ituri,Komanda,0.0,1.0,2.0,2.0,0.0,0.0,0.0,240.0
 20181025,Ituri,Mambasa,,,,,,,,
 20181025,Ituri,Mandima,2.0,9.0,4.0,4.0,3.0,1.0,3.0,1663.0
+20181025,Ituri,Nyankunde,,,,,,,,
 20181025,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,0.0,355.0
 20181025,Kinshasa,Kinshasa,,,,,,,,
 20181025,North-Kivu,Alimbongo,,,,,,,,
@@ -2253,6 +2343,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181026,Ituri,Komanda,0.0,1.0,1.0,1.0,0.0,0.0,0.0,240.0
 20181026,Ituri,Mambasa,,,,,,,,
 20181026,Ituri,Mandima,2.0,9.0,2.0,2.0,3.0,1.0,3.0,1663.0
+20181026,Ituri,Nyankunde,,,,,,,,
 20181026,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,0.0,355.0
 20181026,Kinshasa,Kinshasa,,,,,,,,
 20181026,North-Kivu,Alimbongo,,,,,,,,
@@ -2278,6 +2369,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181027,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181027,Ituri,Mambasa,,,,,,,,
 20181027,Ituri,Mandima,2.0,9.0,3.0,3.0,3.0,1.0,3.0,1663.0
+20181027,Ituri,Nyankunde,,,,,,,,
 20181027,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,0.0,355.0
 20181027,Kinshasa,Kinshasa,,,,,,,,
 20181027,North-Kivu,Alimbongo,,,,,,,,
@@ -2303,6 +2395,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181028,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181028,Ituri,Mambasa,,,,,,,,
 20181028,Ituri,Mandima,2.0,9.0,2.0,2.0,3.0,1.0,3.0,1663.0
+20181028,Ituri,Nyankunde,,,,,,,,
 20181028,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,0.0,355.0
 20181028,Kinshasa,Kinshasa,,,,,,,,
 20181028,North-Kivu,Alimbongo,,,,,,,,
@@ -2328,6 +2421,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181029,Ituri,Komanda,0.0,1.0,4.0,4.0,0.0,0.0,0.0,240.0
 20181029,Ituri,Mambasa,,,,,,,,
 20181029,Ituri,Mandima,2.0,9.0,4.0,4.0,3.0,1.0,3.0,1663.0
+20181029,Ituri,Nyankunde,,,,,,,,
 20181029,Ituri,Tchomia,0.0,2.0,1.0,1.0,2.0,2.0,0.0,355.0
 20181029,Kinshasa,Kinshasa,,,,,,,,
 20181029,North-Kivu,Alimbongo,,,,,,,,
@@ -2353,6 +2447,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181030,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181030,Ituri,Mambasa,,,,,,,,
 20181030,Ituri,Mandima,2.0,9.0,2.0,2.0,3.0,1.0,3.0,1663.0
+20181030,Ituri,Nyankunde,,,,,,,,
 20181030,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,0.0,355.0
 20181030,Kinshasa,Kinshasa,,,,,,,,
 20181030,North-Kivu,Alimbongo,,,,,,,,
@@ -2378,6 +2473,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181031,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181031,Ituri,Mambasa,,,,,,,,
 20181031,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1663.0
+20181031,Ituri,Nyankunde,,,,,,,,
 20181031,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,0.0,355.0
 20181031,Kinshasa,Kinshasa,,,,,,,,
 20181031,North-Kivu,Alimbongo,,,,,,,,
@@ -2403,6 +2499,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181101,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181101,Ituri,Mambasa,,,,,,,,
 20181101,Ituri,Mandima,2.0,9.0,1.0,1.0,3.0,1.0,3.0,1663.0
+20181101,Ituri,Nyankunde,,,,,,,,
 20181101,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,0.0,355.0
 20181101,Kinshasa,Kinshasa,,,,,,,,
 20181101,North-Kivu,Alimbongo,,,,,,,,
@@ -2428,6 +2525,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181102,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181102,Ituri,Mambasa,,,,,,,,
 20181102,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1663.0
+20181102,Ituri,Nyankunde,,,,,,,,
 20181102,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,0.0,355.0
 20181102,Kinshasa,Kinshasa,,,,,,,,
 20181102,North-Kivu,Alimbongo,,,,,,,,
@@ -2453,6 +2551,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181103,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181103,Ituri,Mambasa,,,,,,,,
 20181103,Ituri,Mandima,2.0,9.0,2.0,2.0,3.0,1.0,3.0,1663.0
+20181103,Ituri,Nyankunde,,,,,,,,
 20181103,Ituri,Tchomia,0.0,2.0,3.0,3.0,2.0,2.0,0.0,355.0
 20181103,Kinshasa,Kinshasa,,,,,,,,
 20181103,North-Kivu,Alimbongo,,,,,,,,
@@ -2478,6 +2577,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181104,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181104,Ituri,Mambasa,,,,,,,,
 20181104,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1663.0
+20181104,Ituri,Nyankunde,,,,,,,,
 20181104,Ituri,Tchomia,0.0,2.0,2.0,2.0,2.0,2.0,0.0,355.0
 20181104,Kinshasa,Kinshasa,,,,,,,,
 20181104,North-Kivu,Alimbongo,,,,,,,,
@@ -2503,6 +2603,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181105,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181105,Ituri,Mambasa,,,,,,,,
 20181105,Ituri,Mandima,2.0,9.0,3.0,3.0,3.0,1.0,3.0,1663.0
+20181105,Ituri,Nyankunde,,,,,,,,
 20181105,Ituri,Tchomia,0.0,2.0,1.0,1.0,2.0,2.0,0.0,355.0
 20181105,Kinshasa,Kinshasa,,,,,,,,
 20181105,North-Kivu,Alimbongo,,,,,,,,
@@ -2528,6 +2629,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181106,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,
 20181106,Ituri,Mambasa,,,,,,,,
 20181106,Ituri,Mandima,2.0,9.0,1.0,1.0,3.0,1.0,3.0,
+20181106,Ituri,Nyankunde,,,,,,,,
 20181106,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,0.0,
 20181106,Kinshasa,Kinshasa,,,,,,,,
 20181106,North-Kivu,Alimbongo,,,,,,,,
@@ -2553,6 +2655,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181107,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181107,Ituri,Mambasa,,,,,,,,
 20181107,Ituri,Mandima,2.0,9.0,0.0,0.0,3.0,1.0,3.0,1663.0
+20181107,Ituri,Nyankunde,,,,,,,,
 20181107,Ituri,Tchomia,0.0,2.0,1.0,1.0,2.0,2.0,0.0,355.0
 20181107,Kinshasa,Kinshasa,,,,,,,,
 20181107,North-Kivu,Alimbongo,,,,,,,,
@@ -2578,6 +2681,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181108,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181108,Ituri,Mambasa,,,,,,,,
 20181108,Ituri,Mandima,2.0,9.0,1.0,1.0,3.0,1.0,3.0,1663.0
+20181108,Ituri,Nyankunde,,,,,,,,
 20181108,Ituri,Tchomia,0.0,2.0,1.0,1.0,2.0,2.0,0.0,355.0
 20181108,Kinshasa,Kinshasa,,,,,,,,
 20181108,North-Kivu,Alimbongo,,,,,,,,
@@ -2603,6 +2707,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181109,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,0.0,240.0
 20181109,Ituri,Mambasa,,,,,,,,
 20181109,Ituri,Mandima,2.0,9.0,3.0,3.0,3.0,1.0,3.0,1663.0
+20181109,Ituri,Nyankunde,,,,,,,,
 20181109,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,0.0,355.0
 20181109,Kinshasa,Kinshasa,,,,,,,,
 20181109,North-Kivu,Alimbongo,,,,,,,,
@@ -2628,6 +2733,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181110,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
 20181110,Ituri,Mambasa,,,,,,,,
 20181110,Ituri,Mandima,2.0,9.0,1.0,1.0,3.0,1.0,,1663.0
+20181110,Ituri,Nyankunde,,,,,,,,
 20181110,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181110,Kinshasa,Kinshasa,,,,,,,,
 20181110,North-Kivu,Alimbongo,,,,,,,,
@@ -2653,6 +2759,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181111,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
 20181111,Ituri,Mambasa,,,,,,,,
 20181111,Ituri,Mandima,3.0,16.0,1.0,1.0,4.0,1.0,,1663.0
+20181111,Ituri,Nyankunde,,,,,,,,
 20181111,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181111,Kinshasa,Kinshasa,,,,,,,,
 20181111,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -2678,6 +2785,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181112,Ituri,Komanda,0.0,1.0,0.0,0.0,,,,240.0
 20181112,Ituri,Mambasa,,,,,,,,
 20181112,Ituri,Mandima,3.0,16.0,3.0,3.0,,,,1663.0
+20181112,Ituri,Nyankunde,,,,,,,,
 20181112,Ituri,Tchomia,0.0,2.0,0.0,0.0,,,,355.0
 20181112,Kinshasa,Kinshasa,,,,,,,,
 20181112,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -2703,6 +2811,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181113,Ituri,Komanda,0.0,1.0,0.0,0.0,,,,240.0
 20181113,Ituri,Mambasa,,,,,,,,
 20181113,Ituri,Mandima,3.0,16.0,0.0,0.0,,,,1663.0
+20181113,Ituri,Nyankunde,,,,,,,,
 20181113,Ituri,Tchomia,0.0,2.0,0.0,0.0,,,,355.0
 20181113,Kinshasa,Kinshasa,,,,,,,,
 20181113,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -2728,6 +2837,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181114,Ituri,Komanda,0.0,1.0,0.0,0.0,,,,240.0
 20181114,Ituri,Mambasa,,,,,,,,
 20181114,Ituri,Mandima,3.0,16.0,3.0,3.0,,,,1663.0
+20181114,Ituri,Nyankunde,,,,,,,,
 20181114,Ituri,Tchomia,0.0,2.0,0.0,0.0,,,,355.0
 20181114,Kinshasa,Kinshasa,,,,,,,,
 20181114,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -2753,6 +2863,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181115,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
 20181115,Ituri,Mambasa,,,,,,,,
 20181115,Ituri,Mandima,3.0,16.0,4.0,4.0,12.0,9.0,,1663.0
+20181115,Ituri,Nyankunde,,,,,,,,
 20181115,Ituri,Tchomia,0.0,2.0,2.0,2.0,2.0,2.0,,355.0
 20181115,Kinshasa,Kinshasa,,,,,,,,
 20181115,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -2778,6 +2889,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181116,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
 20181116,Ituri,Mambasa,,,,,,,,
 20181116,Ituri,Mandima,3.0,16.0,4.0,4.0,12.0,9.0,,1663.0
+20181116,Ituri,Nyankunde,,,,,,,,
 20181116,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181116,Kinshasa,Kinshasa,,,,,,,,
 20181116,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -2803,6 +2915,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181117,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
 20181117,Ituri,Mambasa,,,,,,,,
 20181117,Ituri,Mandima,3.0,16.0,6.0,6.0,12.0,9.0,,1663.0
+20181117,Ituri,Nyankunde,,,,,,,,
 20181117,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181117,Kinshasa,Kinshasa,,,,,,,,
 20181117,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -2828,6 +2941,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181118,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
 20181118,Ituri,Mambasa,,,,,,,,
 20181118,Ituri,Mandima,3.0,16.0,6.0,6.0,12.0,9.0,,1663.0
+20181118,Ituri,Nyankunde,,,,,,,,
 20181118,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181118,Kinshasa,Kinshasa,,,,,,,,
 20181118,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -2853,6 +2967,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181119,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
 20181119,Ituri,Mambasa,,,,,,,,
 20181119,Ituri,Mandima,3.0,16.0,5.0,5.0,12.0,9.0,,1663.0
+20181119,Ituri,Nyankunde,,,,,,,,
 20181119,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181119,Kinshasa,Kinshasa,,,,,,,,
 20181119,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -2878,6 +2993,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181120,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
 20181120,Ituri,Mambasa,,,,,,,,
 20181120,Ituri,Mandima,3.0,16.0,6.0,6.0,12.0,9.0,,1663.0
+20181120,Ituri,Nyankunde,,,,,,,,
 20181120,Ituri,Tchomia,0.0,2.0,1.0,1.0,2.0,2.0,,355.0
 20181120,Kinshasa,Kinshasa,,,,,,,,
 20181120,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -2903,6 +3019,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181121,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
 20181121,Ituri,Mambasa,,,,,,,,
 20181121,Ituri,Mandima,3.0,16.0,4.0,4.0,12.0,9.0,,1663.0
+20181121,Ituri,Nyankunde,,,,,,,,
 20181121,Ituri,Tchomia,0.0,2.0,1.0,1.0,2.0,2.0,,355.0
 20181121,Kinshasa,Kinshasa,,,,,,,,
 20181121,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -2928,6 +3045,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181122,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
 20181122,Ituri,Mambasa,,,,,,,,
 20181122,Ituri,Mandima,3.0,16.0,2.0,2.0,12.0,9.0,,1663.0
+20181122,Ituri,Nyankunde,,,,,,,,
 20181122,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181122,Kinshasa,Kinshasa,,,,,,,,
 20181122,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -2953,6 +3071,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181123,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
 20181123,Ituri,Mambasa,,,,,,,,
 20181123,Ituri,Mandima,3.0,16.0,2.0,2.0,12.0,9.0,,1663.0
+20181123,Ituri,Nyankunde,,,,,,,,
 20181123,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181123,Kinshasa,Kinshasa,,,,,,,,
 20181123,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -2978,6 +3097,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181124,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
 20181124,Ituri,Mambasa,,,,,,,,
 20181124,Ituri,Mandima,3.0,16.0,8.0,8.0,12.0,9.0,,1663.0
+20181124,Ituri,Nyankunde,,,,,,,,
 20181124,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181124,Kinshasa,Kinshasa,,,,,,,,
 20181124,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -3003,6 +3123,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181125,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
 20181125,Ituri,Mambasa,,,,,,,,
 20181125,Ituri,Mandima,3.0,16.0,1.0,1.0,12.0,9.0,,1663.0
+20181125,Ituri,Nyankunde,,,,,,,,
 20181125,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181125,Kinshasa,Kinshasa,,,,,,,,
 20181125,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -3028,6 +3149,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181126,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
 20181126,Ituri,Mambasa,,,,,,,,
 20181126,Ituri,Mandima,3.0,16.0,8.0,8.0,12.0,9.0,,1663.0
+20181126,Ituri,Nyankunde,,,,,,,,
 20181126,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181126,Kinshasa,Kinshasa,,,,,,,,
 20181126,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -3053,6 +3175,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181127,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
 20181127,Ituri,Mambasa,,,,,,,,
 20181127,Ituri,Mandima,3.0,16.0,17.0,17.0,12.0,9.0,,1663.0
+20181127,Ituri,Nyankunde,,,,,,,,
 20181127,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181127,Kinshasa,Kinshasa,,,,,,,,
 20181127,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -3078,6 +3201,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181128,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
 20181128,Ituri,Mambasa,,,,,,,,
 20181128,Ituri,Mandima,3.0,16.0,12.0,12.0,12.0,9.0,,1663.0
+20181128,Ituri,Nyankunde,,,,,,,,
 20181128,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181128,Kinshasa,Kinshasa,,,,,,,,
 20181128,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -3103,6 +3227,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181129,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
 20181129,Ituri,Mambasa,,,,,,,,
 20181129,Ituri,Mandima,3.0,16.0,3.0,3.0,12.0,9.0,,1663.0
+20181129,Ituri,Nyankunde,,,,,,,,
 20181129,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181129,Kinshasa,Kinshasa,,,,,,,,
 20181129,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -3128,6 +3253,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181130,Ituri,Komanda,0.0,1.0,0.0,0.0,0.0,0.0,,240.0
 20181130,Ituri,Mambasa,,,,,,,,
 20181130,Ituri,Mandima,3.0,16.0,5.0,5.0,12.0,9.0,,1663.0
+20181130,Ituri,Nyankunde,,,,,,,,
 20181130,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181130,Kinshasa,Kinshasa,,,,,,,,
 20181130,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -3153,6 +3279,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181201,Ituri,Komanda,0.0,2.0,0.0,0.0,1.0,1.0,,240.0
 20181201,Ituri,Mambasa,,,,,,,,
 20181201,Ituri,Mandima,3.0,16.0,0.0,0.0,12.0,9.0,,1663.0
+20181201,Ituri,Nyankunde,,,,,,,,
 20181201,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181201,Kinshasa,Kinshasa,,,,,,,,
 20181201,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -3178,6 +3305,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181202,Ituri,Komanda,0.0,2.0,0.0,0.0,1.0,1.0,,240.0
 20181202,Ituri,Mambasa,,,,,,,,
 20181202,Ituri,Mandima,3.0,16.0,0.0,0.0,12.0,9.0,,1663.0
+20181202,Ituri,Nyankunde,,,,,,,,
 20181202,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181202,Kinshasa,Kinshasa,,,,,,,,
 20181202,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -3203,6 +3331,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181203,Ituri,Komanda,0.0,8.0,3.0,3.0,4.0,4.0,,260.0
 20181203,Ituri,Mambasa,,,,,,,,
 20181203,Ituri,Mandima,3.0,16.0,1.0,1.0,12.0,9.0,,1663.0
+20181203,Ituri,Nyankunde,,,,,,,,
 20181203,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181203,Kinshasa,Kinshasa,,,,,,,,
 20181203,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -3228,6 +3357,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181204,Ituri,Komanda,0.0,9.0,2.0,2.0,5.0,5.0,,349.0
 20181204,Ituri,Mambasa,,,,,,,,
 20181204,Ituri,Mandima,3.0,16.0,0.0,0.0,12.0,9.0,,1663.0
+20181204,Ituri,Nyankunde,,,,,,,,
 20181204,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181204,Kinshasa,Kinshasa,,,,,,,,
 20181204,North-Kivu,Alimbongo,,,,,,,,34.0
@@ -3253,6 +3383,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181205,Ituri,Komanda,0.0,9.0,1.0,1.0,5.0,5.0,,409.0
 20181205,Ituri,Mambasa,,,,,,,,
 20181205,Ituri,Mandima,3.0,16.0,2.0,2.0,12.0,9.0,,1663.0
+20181205,Ituri,Nyankunde,,,,,,,,
 20181205,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181205,Kinshasa,Kinshasa,,,,,,,,
 20181205,North-Kivu,Alimbongo,,,,,,,,51.0
@@ -3278,6 +3409,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181206,Ituri,Komanda,0.0,9.0,3.0,3.0,5.0,5.0,,496.0
 20181206,Ituri,Mambasa,,,,,,,,
 20181206,Ituri,Mandima,3.0,16.0,1.0,1.0,12.0,9.0,,1663.0
+20181206,Ituri,Nyankunde,,,,,,,,
 20181206,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181206,Kinshasa,Kinshasa,,,,,,,,
 20181206,North-Kivu,Alimbongo,,,,,,,,51.0
@@ -3303,6 +3435,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181207,Ituri,Komanda,0.0,8.0,0.0,0.0,4.0,4.0,,575.0
 20181207,Ituri,Mambasa,,,,,,,,
 20181207,Ituri,Mandima,3.0,16.0,2.0,2.0,12.0,9.0,,1663.0
+20181207,Ituri,Nyankunde,,,,,,,,
 20181207,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181207,Kinshasa,Kinshasa,,,,,,,,
 20181207,North-Kivu,Alimbongo,,,,,,,,63.0
@@ -3328,6 +3461,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181208,Ituri,Komanda,0.0,8.0,1.0,1.0,4.0,4.0,,633.0
 20181208,Ituri,Mambasa,0.0,1.0,0.0,0.0,1.0,1.0,,
 20181208,Ituri,Mandima,3.0,16.0,2.0,2.0,12.0,9.0,,1663.0
+20181208,Ituri,Nyankunde,,,,,,,,
 20181208,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181208,Kinshasa,Kinshasa,,,,,,,,
 20181208,North-Kivu,Alimbongo,,,,,,,,63.0
@@ -3353,6 +3487,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181209,Ituri,Komanda,0.0,8.0,0.0,0.0,4.0,4.0,,633.0
 20181209,Ituri,Mambasa,0.0,1.0,0.0,0.0,1.0,1.0,,
 20181209,Ituri,Mandima,3.0,16.0,1.0,1.0,12.0,9.0,,1663.0
+20181209,Ituri,Nyankunde,,,,,,,,
 20181209,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181209,Kinshasa,Kinshasa,,,,,,,,
 20181209,North-Kivu,Alimbongo,,,,,,,,63.0
@@ -3378,6 +3513,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181210,Ituri,Komanda,0.0,8.0,0.0,0.0,4.0,4.0,,633.0
 20181210,Ituri,Mambasa,0.0,1.0,1.0,1.0,1.0,1.0,,
 20181210,Ituri,Mandima,3.0,16.0,2.0,2.0,12.0,9.0,,1663.0
+20181210,Ituri,Nyankunde,,,,,,,,
 20181210,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181210,Kinshasa,Kinshasa,,,,,,,,
 20181210,North-Kivu,Alimbongo,,,,,,,,63.0
@@ -3403,6 +3539,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181211,Ituri,Komanda,0.0,9.0,2.0,2.0,4.0,4.0,,633.0
 20181211,Ituri,Mambasa,,,,,,,,
 20181211,Ituri,Mandima,3.0,17.0,2.0,2.0,13.0,10.0,,1663.0
+20181211,Ituri,Nyankunde,,,,,,,,
 20181211,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181211,Kinshasa,Kinshasa,,,,,,,,
 20181211,North-Kivu,Alimbongo,,,,,,,,63.0
@@ -3428,6 +3565,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181212,Ituri,Komanda,0.0,13.0,6.0,6.0,5.0,5.0,,633.0
 20181212,Ituri,Mambasa,,,,,,,,
 20181212,Ituri,Mandima,3.0,17.0,1.0,1.0,13.0,10.0,,1663.0
+20181212,Ituri,Nyankunde,,,,,,,,
 20181212,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181212,Kinshasa,Kinshasa,,,,,,,,
 20181212,North-Kivu,Alimbongo,,,,,,,,63.0
@@ -3453,6 +3591,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181213,Ituri,Komanda,0.0,14.0,3.0,3.0,6.0,6.0,,685.0
 20181213,Ituri,Mambasa,,,,,,,,
 20181213,Ituri,Mandima,3.0,17.0,3.0,3.0,13.0,10.0,,1663.0
+20181213,Ituri,Nyankunde,,,,,,,,
 20181213,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181213,Kinshasa,Kinshasa,,,,,,,,
 20181213,North-Kivu,Alimbongo,,,,,,,,63.0
@@ -3478,6 +3617,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181214,Ituri,Komanda,0.0,15.0,3.0,3.0,7.0,7.0,,724.0
 20181214,Ituri,Mambasa,,,,,,,,
 20181214,Ituri,Mandima,3.0,17.0,1.0,1.0,13.0,10.0,,1663.0
+20181214,Ituri,Nyankunde,,,,,,,,
 20181214,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181214,Kinshasa,Kinshasa,,,,,,,,
 20181214,North-Kivu,Alimbongo,,,,,,,,63.0
@@ -3503,6 +3643,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181215,Ituri,Komanda,0.0,15.0,6.0,6.0,7.0,7.0,,765.0
 20181215,Ituri,Mambasa,,,,,,,,
 20181215,Ituri,Mandima,3.0,17.0,0.0,0.0,13.0,10.0,,1663.0
+20181215,Ituri,Nyankunde,,,,,,,,
 20181215,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
 20181215,Kinshasa,Kinshasa,,,,,,,,
 20181215,North-Kivu,Alimbongo,,,,,,,,63.0
@@ -3528,6 +3669,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181216,Ituri,Komanda,0.0,17.0,3.0,3.0,7.0,7.0,,824.0
 20181216,Ituri,Mambasa,,,,,,,,
 20181216,Ituri,Mandima,3.0,17.0,0.0,0.0,13.0,10.0,,1663.0
+20181216,Ituri,Nyankunde,,,,,,,,
 20181216,Ituri,Tchomia,0.0,2.0,1.0,1.0,2.0,2.0,,355.0
 20181216,Kinshasa,Kinshasa,,,,,,,,
 20181216,North-Kivu,Alimbongo,,,,,,,,63.0
@@ -3537,7 +3679,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181216,North-Kivu,Goma,,,,,,,,257.0
 20181216,North-Kivu,Kalunguta,12.0,34.0,3.0,3.0,29.0,17.0,,2208.0
 20181216,North-Kivu,Karisimbi,,,,,,,,13.0
-20181216,North-Kivu,Katwa,4.0,65.0,16.0,16.0,46.0,44.0,,8619.0
+20181216,North-Kivu,Katwa,4.0,65.0,16.0,16.0,46.0,42.0,,8619.0
 20181216,North-Kivu,Kyondo,2.0,6.0,0.0,0.0,5.0,3.0,,607.0
 20181216,North-Kivu,Lubero,,,,,,,,700.0
 20181216,North-Kivu,Mabalako,16.0,79.0,0.0,0.0,62.0,46.0,,5077.0
@@ -3548,4 +3690,239 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20181216,North-Kivu,Oicha,0.0,8.0,5.0,5.0,2.0,2.0,,670.0
 20181216,North-Kivu,Vuhovi,0.0,8.0,0.0,0.0,3.0,3.0,,791.0
 20181216,Tshopo,Kisangani,,,,,,,,13.0
-20181216,all,all,48.0,491.0,75.0,75.0,315.0,269.0,,48048.0
+20181216,all,all,48.0,491.0,75.0,75.0,315.0,267.0,,48048.0
+20181217,Ituri,Bunia,,,,,,,,434.0
+20181217,Ituri,Komanda,0.0,23.0,4.0,4.0,11.0,11.0,,877.0
+20181217,Ituri,Mambasa,,,,,,,,
+20181217,Ituri,Mandima,3.0,17.0,1.0,1.0,13.0,10.0,,1663.0
+20181217,Ituri,Nyankunde,,,,,,,,
+20181217,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
+20181217,Kinshasa,Kinshasa,,,,,,,,
+20181217,North-Kivu,Alimbongo,,,,,,,,63.0
+20181217,North-Kivu,Beni,9.0,207.0,50.0,50.0,124.0,115.0,,19060.0
+20181217,North-Kivu,Biena,0.0,1.0,0.0,0.0,0.0,0.0,,70.0
+20181217,North-Kivu,Butembo,0.0,34.0,12.0,12.0,17.0,17.0,,5114.0
+20181217,North-Kivu,Goma,,,,,,,,347.0
+20181217,North-Kivu,Kalunguta,12.0,34.0,1.0,1.0,29.0,17.0,,2208.0
+20181217,North-Kivu,Karisimbi,,,,,,,,13.0
+20181217,North-Kivu,Katwa,4.0,66.0,9.0,9.0,46.0,42.0,,8858.0
+20181217,North-Kivu,Kyondo,2.0,6.0,2.0,2.0,5.0,3.0,,647.0
+20181217,North-Kivu,Lubero,,,,,,,,700.0
+20181217,North-Kivu,Mabalako,16.0,80.0,8.0,8.0,63.0,47.0,,5135.0
+20181217,North-Kivu,Mangurujipa,,,,,,,,
+20181217,North-Kivu,Masereka,1.0,7.0,2.0,2.0,3.0,2.0,,750.0
+20181217,North-Kivu,Musienene,1.0,3.0,2.0,2.0,3.0,2.0,,344.0
+20181217,North-Kivu,Mutwanga,0.0,3.0,0.0,0.0,2.0,2.0,,599.0
+20181217,North-Kivu,Oicha,0.0,8.0,1.0,1.0,2.0,2.0,,740.0
+20181217,North-Kivu,Vuhovi,0.0,8.0,4.0,4.0,3.0,3.0,,791.0
+20181217,Tshopo,Kisangani,,,,,,,,13.0
+20181217,all,all,48.0,499.0,96.0,96.0,323.0,275.0,,48781.0
+20181218,Ituri,Bunia,,,,,,,,434.0
+20181218,Ituri,Komanda,0.0,25.0,4.0,4.0,13.0,13.0,,919.0
+20181218,Ituri,Mambasa,,,,,,,,
+20181218,Ituri,Mandima,3.0,17.0,0.0,0.0,13.0,10.0,,1663.0
+20181218,Ituri,Nyankunde,,,,,,,,
+20181218,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
+20181218,Kinshasa,Kinshasa,,,,,,,,
+20181218,North-Kivu,Alimbongo,,,,,,,,63.0
+20181218,North-Kivu,Beni,9.0,207.0,37.0,37.0,125.0,116.0,,19060.0
+20181218,North-Kivu,Biena,0.0,1.0,0.0,0.0,0.0,0.0,,70.0
+20181218,North-Kivu,Butembo,0.0,34.0,7.0,7.0,18.0,18.0,,5314.0
+20181218,North-Kivu,Goma,,,,,,,,402.0
+20181218,North-Kivu,Kalunguta,12.0,34.0,3.0,3.0,29.0,17.0,,2221.0
+20181218,North-Kivu,Karisimbi,,,,,,,,13.0
+20181218,North-Kivu,Katwa,4.0,69.0,23.0,23.0,48.0,44.0,,9018.0
+20181218,North-Kivu,Kyondo,2.0,6.0,2.0,2.0,5.0,3.0,,659.0
+20181218,North-Kivu,Lubero,,,,,,,,700.0
+20181218,North-Kivu,Mabalako,16.0,82.0,3.0,3.0,64.0,48.0,,5135.0
+20181218,North-Kivu,Mangurujipa,,,,,,,,
+20181218,North-Kivu,Masereka,1.0,7.0,1.0,1.0,3.0,2.0,,750.0
+20181218,North-Kivu,Musienene,1.0,3.0,1.0,1.0,3.0,2.0,,344.0
+20181218,North-Kivu,Mutwanga,0.0,3.0,0.0,0.0,2.0,2.0,,599.0
+20181218,North-Kivu,Oicha,0.0,8.0,0.0,0.0,2.0,2.0,,861.0
+20181218,North-Kivu,Vuhovi,0.0,8.0,1.0,1.0,3.0,3.0,,791.0
+20181218,Tshopo,Kisangani,,,,,,,,13.0
+20181218,all,all,48.0,506.0,82.0,82.0,330.0,282.0,,49384.0
+20181219,Ituri,Bunia,,,,,,,,434.0
+20181219,Ituri,Komanda,0.0,27.0,2.0,2.0,14.0,14.0,,969.0
+20181219,Ituri,Mambasa,,,,,,,,
+20181219,Ituri,Mandima,3.0,17.0,0.0,0.0,13.0,10.0,,1663.0
+20181219,Ituri,Nyankunde,,,,,,,,
+20181219,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
+20181219,Kinshasa,Kinshasa,,,,,,,,
+20181219,North-Kivu,Alimbongo,,,,,,,,63.0
+20181219,North-Kivu,Beni,9.0,208.0,72.0,72.0,128.0,119.0,,19120.0
+20181219,North-Kivu,Biena,0.0,1.0,0.0,0.0,0.0,0.0,,70.0
+20181219,North-Kivu,Butembo,0.0,35.0,0.0,0.0,20.0,20.0,,5388.0
+20181219,North-Kivu,Goma,,,,,,,,539.0
+20181219,North-Kivu,Kalunguta,12.0,35.0,0.0,0.0,29.0,17.0,,2221.0
+20181219,North-Kivu,Karisimbi,,,,,,,,13.0
+20181219,North-Kivu,Katwa,4.0,70.0,0.0,0.0,48.0,44.0,,9233.0
+20181219,North-Kivu,Kyondo,2.0,6.0,0.0,0.0,5.0,3.0,,659.0
+20181219,North-Kivu,Lubero,,,,,,,,700.0
+20181219,North-Kivu,Mabalako,16.0,82.0,10.0,10.0,64.0,48.0,,5155.0
+20181219,North-Kivu,Mangurujipa,,,,,,,,
+20181219,North-Kivu,Masereka,1.0,7.0,0.0,0.0,3.0,2.0,,750.0
+20181219,North-Kivu,Musienene,1.0,3.0,0.0,0.0,3.0,2.0,,344.0
+20181219,North-Kivu,Mutwanga,0.0,3.0,1.0,1.0,2.0,2.0,,599.0
+20181219,North-Kivu,Oicha,0.0,8.0,2.0,2.0,2.0,2.0,,861.0
+20181219,North-Kivu,Vuhovi,0.0,8.0,0.0,0.0,3.0,3.0,,791.0
+20181219,Tshopo,Kisangani,,,,,,,,13.0
+20181219,all,all,48.0,512.0,87.0,87.0,336.0,288.0,,49940.0
+20181220,Ituri,Bunia,,,,,,,,434.0
+20181220,Ituri,Komanda,0.0,28.0,2.0,2.0,15.0,15.0,,1029.0
+20181220,Ituri,Mambasa,,,,,,,,
+20181220,Ituri,Mandima,3.0,17.0,0.0,0.0,13.0,10.0,,1663.0
+20181220,Ituri,Nyankunde,,,,,,,,
+20181220,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
+20181220,Kinshasa,Kinshasa,,,,,,,,
+20181220,North-Kivu,Alimbongo,,,,,,,,63.0
+20181220,North-Kivu,Beni,9.0,209.0,60.0,60.0,129.0,120.0,,19147.0
+20181220,North-Kivu,Biena,0.0,1.0,0.0,0.0,0.0,0.0,,70.0
+20181220,North-Kivu,Butembo,0.0,35.0,0.0,0.0,22.0,22.0,,5428.0
+20181220,North-Kivu,Goma,,,,,,,,569.0
+20181220,North-Kivu,Kalunguta,12.0,35.0,0.0,0.0,29.0,17.0,,2221.0
+20181220,North-Kivu,Karisimbi,,,,,,,,13.0
+20181220,North-Kivu,Katwa,4.0,70.0,9.0,9.0,49.0,45.0,,9519.0
+20181220,North-Kivu,Kyondo,2.0,6.0,6.0,6.0,5.0,3.0,,659.0
+20181220,North-Kivu,Lubero,0.0,0.0,2.0,2.0,0.0,0.0,,700.0
+20181220,North-Kivu,Mabalako,16.0,82.0,0.0,0.0,65.0,49.0,,5261.0
+20181220,North-Kivu,Mangurujipa,,,,,,,,
+20181220,North-Kivu,Masereka,1.0,7.0,1.0,1.0,3.0,2.0,,750.0
+20181220,North-Kivu,Musienene,1.0,3.0,0.0,0.0,3.0,2.0,,344.0
+20181220,North-Kivu,Mutwanga,0.0,3.0,0.0,0.0,2.0,2.0,,599.0
+20181220,North-Kivu,Oicha,0.0,9.0,1.0,1.0,3.0,3.0,,861.0
+20181220,North-Kivu,Vuhovi,0.0,8.0,0.0,0.0,3.0,3.0,,791.0
+20181220,Tshopo,Kisangani,,,,,,,,13.0
+20181220,all,all,48.0,515.0,81.0,81.0,343.0,295.0,,50489.0
+20181221,Ituri,Bunia,,,,,,,,434.0
+20181221,Ituri,Komanda,0.0,29.0,0.0,0.0,16.0,16.0,,1047.0
+20181221,Ituri,Mambasa,,,,,,,,
+20181221,Ituri,Mandima,3.0,17.0,9.0,9.0,13.0,10.0,,1663.0
+20181221,Ituri,Nyankunde,,,,,,,,
+20181221,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
+20181221,Kinshasa,Kinshasa,,,,,,,,
+20181221,North-Kivu,Alimbongo,,,,,,,,63.0
+20181221,North-Kivu,Beni,9.0,211.0,54.0,54.0,130.0,121.0,,19147.0
+20181221,North-Kivu,Biena,0.0,1.0,0.0,0.0,0.0,0.0,,70.0
+20181221,North-Kivu,Butembo,0.0,35.0,6.0,6.0,24.0,24.0,,5478.0
+20181221,North-Kivu,Goma,,,,,,,,687.0
+20181221,North-Kivu,Kalunguta,12.0,35.0,2.0,2.0,29.0,17.0,,2258.0
+20181221,North-Kivu,Karisimbi,,,,,,,,13.0
+20181221,North-Kivu,Katwa,4.0,71.0,10.0,10.0,49.0,45.0,,9729.0
+20181221,North-Kivu,Kyondo,2.0,6.0,2.0,2.0,5.0,3.0,,659.0
+20181221,North-Kivu,Lubero,0.0,0.0,0.0,0.0,0.0,0.0,,700.0
+20181221,North-Kivu,Mabalako,16.0,82.0,20.0,20.0,65.0,49.0,,5261.0
+20181221,North-Kivu,Mangurujipa,,,,,,,,
+20181221,North-Kivu,Masereka,1.0,7.0,2.0,2.0,3.0,2.0,,750.0
+20181221,North-Kivu,Musienene,1.0,3.0,2.0,2.0,3.0,2.0,,344.0
+20181221,North-Kivu,Mutwanga,0.0,3.0,0.0,0.0,2.0,2.0,,599.0
+20181221,North-Kivu,Oicha,0.0,9.0,2.0,2.0,3.0,3.0,,884.0
+20181221,North-Kivu,Vuhovi,0.0,8.0,4.0,4.0,3.0,3.0,,791.0
+20181221,Tshopo,Kisangani,,,,,,,,13.0
+20181221,all,all,48.0,519.0,113.0,113.0,347.0,299.0,,50945.0
+20181222,Ituri,Bunia,,,,,,,,434.0
+20181222,Ituri,Komanda,0.0,28.0,0.0,0.0,15.0,15.0,,1174.0
+20181222,Ituri,Mambasa,,,,,,,,
+20181222,Ituri,Mandima,3.0,17.0,27.0,27.0,13.0,10.0,,1663.0
+20181222,Ituri,Nyankunde,0.0,1.0,0.0,0.0,1.0,1.0,,
+20181222,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
+20181222,Kinshasa,Kinshasa,,,,,,,,
+20181222,North-Kivu,Alimbongo,,,,,,,,63.0
+20181222,North-Kivu,Beni,9.0,212.0,57.0,57.0,130.0,121.0,,19240.0
+20181222,North-Kivu,Biena,0.0,1.0,0.0,0.0,0.0,0.0,,70.0
+20181222,North-Kivu,Butembo,0.0,35.0,10.0,10.0,24.0,24.0,,5605.0
+20181222,North-Kivu,Goma,0.0,0.0,15.0,15.0,0.0,0.0,,754.0
+20181222,North-Kivu,Kalunguta,12.0,37.0,1.0,1.0,29.0,17.0,,2258.0
+20181222,North-Kivu,Karisimbi,,,,,,,,13.0
+20181222,North-Kivu,Katwa,4.0,74.0,7.0,7.0,49.0,45.0,,10049.0
+20181222,North-Kivu,Kyondo,2.0,6.0,2.0,2.0,5.0,3.0,,659.0
+20181222,North-Kivu,Lubero,0.0,0.0,0.0,0.0,0.0,0.0,,700.0
+20181222,North-Kivu,Mabalako,16.0,82.0,38.0,38.0,65.0,49.0,,5283.0
+20181222,North-Kivu,Mangurujipa,,,,,,,,
+20181222,North-Kivu,Masereka,1.0,7.0,0.0,0.0,3.0,2.0,,750.0
+20181222,North-Kivu,Musienene,1.0,4.0,3.0,3.0,3.0,2.0,,344.0
+20181222,North-Kivu,Mutwanga,0.0,3.0,0.0,0.0,2.0,2.0,,599.0
+20181222,North-Kivu,Oicha,0.0,9.0,0.0,0.0,3.0,3.0,,861.0
+20181222,North-Kivu,Vuhovi,0.0,8.0,1.0,1.0,3.0,3.0,,791.0
+20181222,Tshopo,Kisangani,,,,,,,,13.0
+20181222,all,all,48.0,526.0,161.0,161.0,347.0,299.0,,51678.0
+20181223,Ituri,Bunia,,,,,,,,434.0
+20181223,Ituri,Komanda,0.0,28.0,2.0,2.0,15.0,15.0,,1137.0
+20181223,Ituri,Mambasa,,,,,,,,
+20181223,Ituri,Mandima,3.0,17.0,20.0,20.0,13.0,10.0,,1663.0
+20181223,Ituri,Nyankunde,0.0,1.0,2.0,2.0,1.0,1.0,,167.0
+20181223,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
+20181223,Kinshasa,Kinshasa,,,,,,,,
+20181223,North-Kivu,Alimbongo,,,,,,,,63.0
+20181223,North-Kivu,Beni,9.0,212.0,38.0,38.0,131.0,122.0,,19348.0
+20181223,North-Kivu,Biena,0.0,1.0,0.0,0.0,0.0,0.0,,70.0
+20181223,North-Kivu,Butembo,0.0,37.0,22.0,22.0,26.0,26.0,,5675.0
+20181223,North-Kivu,Goma,0.0,0.0,0.0,0.0,0.0,0.0,,754.0
+20181223,North-Kivu,Kalunguta,12.0,37.0,0.0,0.0,29.0,17.0,,2258.0
+20181223,North-Kivu,Karisimbi,,,,,,,,13.0
+20181223,North-Kivu,Katwa,4.0,75.0,44.0,44.0,50.0,46.0,,10185.0
+20181223,North-Kivu,Kyondo,2.0,6.0,6.0,6.0,5.0,3.0,,659.0
+20181223,North-Kivu,Lubero,0.0,0.0,0.0,0.0,0.0,0.0,,700.0
+20181223,North-Kivu,Mabalako,16.0,84.0,51.0,51.0,66.0,50.0,,5283.0
+20181223,North-Kivu,Mangurujipa,,,,,,,,
+20181223,North-Kivu,Masereka,1.0,7.0,0.0,0.0,3.0,2.0,,750.0
+20181223,North-Kivu,Musienene,1.0,4.0,25.0,25.0,3.0,2.0,,344.0
+20181223,North-Kivu,Mutwanga,0.0,3.0,0.0,0.0,2.0,2.0,,599.0
+20181223,North-Kivu,Oicha,0.0,9.0,3.0,3.0,3.0,3.0,,861.0
+20181223,North-Kivu,Vuhovi,0.0,8.0,0.0,0.0,3.0,3.0,,791.0
+20181223,Tshopo,Kisangani,,,,,,,,13.0
+20181223,all,all,48.0,531.0,213.0,213.0,352.0,304.0,,52122.0
+20181224,Ituri,Bunia,,,,,,,,434.0
+20181224,Ituri,Komanda,0.0,28.0,2.0,2.0,15.0,15.0,,1177.0
+20181224,Ituri,Mambasa,,,,,,,,
+20181224,Ituri,Mandima,3.0,17.0,1.0,1.0,13.0,10.0,,1663.0
+20181224,Ituri,Nyankunde,0.0,1.0,0.0,0.0,1.0,1.0,,167.0
+20181224,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
+20181224,Kinshasa,Kinshasa,,,,,,,,
+20181224,North-Kivu,Alimbongo,,,,,,,,63.0
+20181224,North-Kivu,Beni,9.0,212.0,63.0,63.0,131.0,122.0,,19348.0
+20181224,North-Kivu,Biena,0.0,1.0,0.0,0.0,0.0,0.0,,70.0
+20181224,North-Kivu,Butembo,0.0,38.0,16.0,16.0,26.0,26.0,,5745.0
+20181224,North-Kivu,Goma,,,,,,,,884.0
+20181224,North-Kivu,Kalunguta,12.0,37.0,0.0,0.0,29.0,17.0,,2258.0
+20181224,North-Kivu,Karisimbi,,,,,,,,13.0
+20181224,North-Kivu,Katwa,4.0,75.0,16.0,16.0,51.0,47.0,,10303.0
+20181224,North-Kivu,Kyondo,2.0,6.0,3.0,3.0,5.0,3.0,,659.0
+20181224,North-Kivu,Lubero,,,,,,,,700.0
+20181224,North-Kivu,Mabalako,16.0,85.0,9.0,9.0,66.0,50.0,,5313.0
+20181224,North-Kivu,Mangurujipa,,,,,,,,
+20181224,North-Kivu,Masereka,1.0,7.0,4.0,4.0,3.0,2.0,,750.0
+20181224,North-Kivu,Musienene,1.0,4.0,5.0,5.0,3.0,2.0,,394.0
+20181224,North-Kivu,Mutwanga,0.0,3.0,0.0,0.0,2.0,2.0,,599.0
+20181224,North-Kivu,Oicha,0.0,11.0,1.0,1.0,4.0,4.0,,931.0
+20181224,North-Kivu,Vuhovi,0.0,8.0,2.0,2.0,3.0,3.0,,791.0
+20181224,Tshopo,Kisangani,,,,,,,,13.0
+20181224,all,all,48.0,535.0,122.0,122.0,354.0,306.0,,52630.0
+20181225,Ituri,Bunia,,,,,,,,434.0
+20181225,Ituri,Komanda,0.0,28.0,0.0,0.0,15.0,15.0,,1207.0
+20181225,Ituri,Mambasa,,,,,,,,
+20181225,Ituri,Mandima,3.0,17.0,2.0,2.0,13.0,10.0,,1663.0
+20181225,Ituri,Nyankunde,0.0,1.0,0.0,0.0,1.0,1.0,,167.0
+20181225,Ituri,Tchomia,0.0,2.0,0.0,0.0,2.0,2.0,,355.0
+20181225,Kinshasa,Kinshasa,,,,,,,,
+20181225,North-Kivu,Alimbongo,,,,,,,,63.0
+20181225,North-Kivu,Beni,9.0,212.0,36.0,36.0,132.0,123.0,,19348.0
+20181225,North-Kivu,Biena,0.0,1.0,0.0,0.0,0.0,0.0,,70.0
+20181225,North-Kivu,Butembo,0.0,39.0,11.0,11.0,26.0,26.0,,5785.0
+20181225,North-Kivu,Goma,,,,,,,,903.0
+20181225,North-Kivu,Kalunguta,12.0,37.0,5.0,5.0,29.0,17.0,,2258.0
+20181225,North-Kivu,Karisimbi,,,,,,,,13.0
+20181225,North-Kivu,Katwa,4.0,76.0,10.0,10.0,52.0,48.0,,10523.0
+20181225,North-Kivu,Kyondo,2.0,6.0,2.0,2.0,5.0,3.0,,659.0
+20181225,North-Kivu,Lubero,,,,,,,,700.0
+20181225,North-Kivu,Mabalako,16.0,85.0,6.0,6.0,66.0,50.0,,5327.0
+20181225,North-Kivu,Mangurujipa,,,,,,,,
+20181225,North-Kivu,Masereka,1.0,7.0,0.0,0.0,3.0,2.0,,750.0
+20181225,North-Kivu,Musienene,1.0,4.0,2.0,2.0,3.0,2.0,,394.0
+20181225,North-Kivu,Mutwanga,0.0,3.0,0.0,0.0,2.0,2.0,,599.0
+20181225,North-Kivu,Oicha,0.0,11.0,0.0,0.0,4.0,4.0,,1009.0
+20181225,North-Kivu,Vuhovi,0.0,8.0,0.0,0.0,3.0,3.0,,791.0
+20181225,Tshopo,Kisangani,,,,,,,,13.0
+20181225,all,all,48.0,537.0,74.0,74.0,356.0,308.0,,53031.0
+20181226,all,all,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
