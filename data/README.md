@@ -7,7 +7,7 @@
 2. Dates are formatted as YYYYMMDD.
 3. Columns are: cumulative probable cases; cumulative confirmed cases; new suspected cases; total current suspected cases; cumulative deaths; cumulative deaths that are confirmed Ebola cases; cumulative cured cases (from 20180905); and cumulative vaccinated (from 20180815).
 4. Blank entries indicate no data was reported.
-5. Inconsistencies, errors and omissions are noted below, but have not been corrected in the data.
+5. Some inconsistencies, errors and omissions are noted below, but have not been corrected in the data. Please note that this list is not comprehensive.
 
 #### Known inconsistenties, errors and omissions
 1. 20180804: No data reported.
