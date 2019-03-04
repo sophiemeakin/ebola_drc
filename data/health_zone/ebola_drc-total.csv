@@ -215,3 +215,5 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20190226,all,all,65,814,229,229,553,488,,0
 20190227,all,all,65,820,227,227,555,490,,0
 20190228,all,all,65,823,174,174,557,492,,0
+20190301,all,all,65,825,172,172,559,494,,0
+20190302,all,all,65,829,182,182,561,496,,0
